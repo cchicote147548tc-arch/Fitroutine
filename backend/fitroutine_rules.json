@@ -1,0 +1,7367 @@
+[
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006021170232143941,
+    "confidence": 0.8686131386861314,
+    "lift": 5.737224325826223
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003643060980792973,
+    "confidence": 0.8653846153846154,
+    "lift": 5.715899801021116
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006709303972960392,
+    "confidence": 0.7603211009174312,
+    "lift": 5.021951109582161
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004189520127911919,
+    "confidence": 0.7582417582417583,
+    "lift": 5.00821696851374
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.007842700722540428,
+    "confidence": 0.7466281310211946,
+    "lift": 4.931508498847163
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004938371551741585,
+    "confidence": 0.7461773700305809,
+    "lift": 4.9285312045773635
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.007630188831994171,
+    "confidence": 0.7327502429543246,
+    "lift": 4.839844496240922
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00556578760954482,
+    "confidence": 0.7284768211920529,
+    "lift": 4.811618375546841
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005039567690096946,
+    "confidence": 0.7248908296943232,
+    "lift": 4.787932759089207
+  },
+  {
+    "antecedents": [
+      "pike push up"
+    ],
+    "consequents": [
+      "push up"
+    ],
+    "support": 0.004685381205853185,
+    "confidence": 0.7245696400625978,
+    "lift": 16.67066884556596
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00679026088364468,
+    "confidence": 0.7145899893503727,
+    "lift": 4.7198952989522835
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg press"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004331194721609423,
+    "confidence": 0.7145242070116861,
+    "lift": 4.719460803989091
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01608006638466676,
+    "confidence": 0.7122366651725683,
+    "lift": 4.704351499166022
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.021807767815580158,
+    "confidence": 0.703558602677114,
+    "lift": 4.6470325512564035
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003744257119148333,
+    "confidence": 0.7020872865275142,
+    "lift": 4.637314449573951
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006466433240907527,
+    "confidence": 0.6991247264770241,
+    "lift": 4.617746622619247
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01054463761662855,
+    "confidence": 0.6974564926372155,
+    "lift": 4.606727871761537
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003379951021069036,
+    "confidence": 0.6929460580912862,
+    "lift": 4.576936272205382
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003632941366957437,
+    "confidence": 0.6917148362235067,
+    "lift": 4.56880400280292
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006415835171729846,
+    "confidence": 0.6898803046789989,
+    "lift": 4.556686848991999
+  },
+  {
+    "antecedents": [
+      "plank",
+      "sit up"
+    ],
+    "consequents": [
+      "push up"
+    ],
+    "support": 0.0033698314072335,
+    "confidence": 0.6865979381443299,
+    "lift": 15.797027951465983
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.6839237057220708,
+    "lift": 4.517343275987139
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.019308223198202756,
+    "confidence": 0.6838709677419355,
+    "lift": 4.516994939530952
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.011020259466898743,
+    "confidence": 0.6836158192090395,
+    "lift": 4.515309673323899
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.6734234234234233,
+    "lift": 4.447988493807623
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.011728632435386266,
+    "confidence": 0.6718840579710146,
+    "lift": 4.437820923773793
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003400190248740108,
+    "confidence": 0.6679920477137176,
+    "lift": 4.41211404123883
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg press"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004068084761885487,
+    "confidence": 0.6644628099173554,
+    "lift": 4.388803285235828
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.013843631727013297,
+    "confidence": 0.659277108433735,
+    "lift": 4.35455152070081
+  },
+  {
+    "antecedents": [
+      "hamstring curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0047663381165374726,
+    "confidence": 0.6496551724137931,
+    "lift": 4.290998250624036
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.644345238095238,
+    "lift": 4.2559259232735265
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006466433240907527,
+    "confidence": 0.6441532258064516,
+    "lift": 4.25465767446975
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0031775587443583155,
+    "confidence": 0.639511201629328,
+    "lift": 5.468606604586961
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004472869315306928,
+    "confidence": 0.638728323699422,
+    "lift": 4.218825980304089
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0037138982776417253,
+    "confidence": 0.6382608695652173,
+    "lift": 4.215738427156984
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004290716266267279,
+    "confidence": 0.6356821589205397,
+    "lift": 4.198705940793388
+  },
+  {
+    "antecedents": [
+      "straight leg calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004482988929142464,
+    "confidence": 0.6292613636363636,
+    "lift": 4.156296332585935
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0035722236839442205,
+    "confidence": 0.6225749559082892,
+    "lift": 4.112132343623108
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00668906474528932,
+    "confidence": 0.6218250235183443,
+    "lift": 4.1071790103626595
+  },
+  {
+    "antecedents": [
+      "barbell row",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004088323989556559,
+    "confidence": 0.6215384615384616,
+    "lift": 5.314917591926938
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004098443603392094,
+    "confidence": 0.6192660550458715,
+    "lift": 4.090276921831624
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0049282519379060495,
+    "confidence": 0.6164556962025316,
+    "lift": 4.0717143899032
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01215365621647878,
+    "confidence": 0.616213442791175,
+    "lift": 4.070114296486754
+  },
+  {
+    "antecedents": [
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.04796696958044081,
+    "confidence": 0.6122448979591837,
+    "lift": 4.04390190004215
+  },
+  {
+    "antecedents": [
+      "calf raise (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004988969620919266,
+    "confidence": 0.6116625310173698,
+    "lift": 4.040055343230696
+  },
+  {
+    "antecedents": [
+      "seated row (cable)",
+      "shrug (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.003076362606002955,
+    "confidence": 0.6104417670682731,
+    "lift": 5.220027218600953
+  },
+  {
+    "antecedents": [
+      "face pull",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.007286121961585946,
+    "confidence": 0.6096528365791701,
+    "lift": 5.213280893482211
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0068307393389868245,
+    "confidence": 0.6092057761732852,
+    "lift": 5.209457977664563
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006699184359124856,
+    "confidence": 0.6045662100456621,
+    "lift": 3.9931838609913934
+  },
+  {
+    "antecedents": [
+      "hack squat"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.02216195429982392,
+    "confidence": 0.6008230452674898,
+    "lift": 3.968460108765644
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.007701026128842923,
+    "confidence": 0.5978004713275726,
+    "lift": 3.9484958876845178
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004149041672569775,
+    "confidence": 0.596797671033479,
+    "lift": 3.9418723518605927
+  },
+  {
+    "antecedents": [
+      "cable crunch",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.5963855421686748,
+    "lift": 3.9391502243181673
+  },
+  {
+    "antecedents": [
+      "burpee"
+    ],
+    "consequents": [
+      "push up"
+    ],
+    "support": 0.0032281568135359953,
+    "confidence": 0.5962616822429906,
+    "lift": 13.718599980416263
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0043008358801028155,
+    "confidence": 0.5862068965517242,
+    "lift": 3.8719198652127718
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003946649395859054,
+    "confidence": 0.5812220566318926,
+    "lift": 3.8389947992948574
+  },
+  {
+    "antecedents": [
+      "squat (barbell)",
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003653180594628509,
+    "confidence": 0.5776,
+    "lift": 3.815070971191765
+  },
+  {
+    "antecedents": [
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.028112287235119108,
+    "confidence": 0.5761094981335546,
+    "lift": 3.805226147086531
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.5750332005312084,
+    "lift": 3.798117158618605
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "v-handle tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.5735567970204841,
+    "lift": 4.31863270100352
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.010929182942378919,
+    "confidence": 0.5729442970822282,
+    "lift": 3.7843198682622563
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.017901596875063246,
+    "confidence": 0.5708292997741206,
+    "lift": 3.7703502269286173
+  },
+  {
+    "antecedents": [
+      "bicep curl (cable)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.005424113015847315,
+    "confidence": 0.5702127659574467,
+    "lift": 4.876019825751382
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005575907223380356,
+    "confidence": 0.5692148760330578,
+    "lift": 3.759686893913154
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004725859661195329,
+    "confidence": 0.5688185140073082,
+    "lift": 4.864097258322445
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.010352364953753366,
+    "confidence": 0.5587110868377936,
+    "lift": 3.6903089485420146
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01672772167014107,
+    "confidence": 0.5582573454913881,
+    "lift": 3.6873119689036815
+  },
+  {
+    "antecedents": [
+      "bicep curl (barbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0034507883179177882,
+    "confidence": 0.5553745928338762,
+    "lift": 4.7491352124141555
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005302677649820882,
+    "confidence": 0.5504201680672268,
+    "lift": 3.579324833381628
+  },
+  {
+    "antecedents": [
+      "dip (bodyweight)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004655022364346576,
+    "confidence": 0.5502392344497608,
+    "lift": 3.5781482409750236
+  },
+  {
+    "antecedents": [
+      "squat (bodyweight)"
+    ],
+    "consequents": [
+      "push up"
+    ],
+    "support": 0.005859256410775364,
+    "confidence": 0.5488151658767773,
+    "lift": 12.626965555672031
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003875812099010302,
+    "confidence": 0.5471428571428572,
+    "lift": 3.613900331337668
+  },
+  {
+    "antecedents": [
+      "reverse wrist curl (dumbbell)"
+    ],
+    "consequents": [
+      "wrist curls"
+    ],
+    "support": 0.004128802444898703,
+    "confidence": 0.5425531914893618,
+    "lift": 18.596608143113336
+  },
+  {
+    "antecedents": [
+      "squat (smith machine)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003106721447509563,
+    "confidence": 0.5424028268551238,
+    "lift": 3.582592242775858
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.012082818919630027,
+    "confidence": 0.5414965986394558,
+    "lift": 3.576606569370613
+  },
+  {
+    "antecedents": [
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.027505110404986946,
+    "confidence": 0.531170607777995,
+    "lift": 3.5084029890652966
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.014946669635086725,
+    "confidence": 0.5297704447632712,
+    "lift": 3.4991548566684667
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.5291201982651796,
+    "lift": 3.44081335563099
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006537270537756279,
+    "confidence": 0.5282093213409648,
+    "lift": 3.542113783677488
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.5273109243697479,
+    "lift": 4.509156362441134
+  },
+  {
+    "antecedents": [
+      "squat (smith machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00868262867088992,
+    "confidence": 0.5250917992656059,
+    "lift": 3.468252217086334
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00513064421461677,
+    "confidence": 0.5210688591983555,
+    "lift": 3.4416805379495417
+  },
+  {
+    "antecedents": [
+      "dip (weighted)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005636624906393572,
+    "confidence": 0.5191053122087605,
+    "lift": 3.375687598173552
+  },
+  {
+    "antecedents": [
+      "face pull",
+      "hammer curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00487765386872837,
+    "confidence": 0.5166130760986067,
+    "lift": 4.417676614218771
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00806533222692222,
+    "confidence": 0.5148578811369509,
+    "lift": 3.348066997775152
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.009866623489647635,
+    "confidence": 0.5147835269271382,
+    "lift": 3.4001656683300543
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "hammer curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0037240178914772614,
+    "confidence": 0.5139664804469274,
+    "lift": 4.3950449692631075
+  },
+  {
+    "antecedents": [
+      "hanging leg raise",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0031876783581938515,
+    "confidence": 0.5072463768115942,
+    "lift": 3.401538576531496
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004837175413386225,
+    "confidence": 0.5063559322033898,
+    "lift": 3.3445010700136737
+  },
+  {
+    "antecedents": [
+      "front raise"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.009026695541298145,
+    "confidence": 0.5062429057888763,
+    "lift": 3.811788438299694
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.005545548381873748,
+    "confidence": 0.5004566210045662,
+    "lift": 6.387770908606203
+  },
+  {
+    "antecedents": [
+      "hamstring curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003197797972029387,
+    "confidence": 0.5,
+    "lift": 3.3025198850344224
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg press"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.0030561233783318827,
+    "confidence": 0.49917355371900823,
+    "lift": 6.371393984939933
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006233682122690198,
+    "confidence": 0.49878542510121454,
+    "lift": 3.3448003622185003
+  },
+  {
+    "antecedents": [
+      "squat (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01750693193547734,
+    "confidence": 0.49627079747561675,
+    "lift": 3.27788835405023
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg curl"
+    ],
+    "consequents": [
+      "hip abductor (machine)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.48905109489051096,
+    "lift": 17.33394946014724
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0030460037644963467,
+    "confidence": 0.48784440842787685,
+    "lift": 3.2222317192718357
+  },
+  {
+    "antecedents": [
+      "bicep curl (ez bar)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.48641304347826086,
+    "lift": 4.159429225548181
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.4857839155158407,
+    "lift": 3.657741158445927
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005899734866117509,
+    "confidence": 0.4850249584026622,
+    "lift": 3.2525241815577006
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0032686352688781396,
+    "confidence": 0.48498498498498493,
+    "lift": 3.1538066758519507
+  },
+  {
+    "antecedents": [
+      "single leg press"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004402032018458175,
+    "confidence": 0.48440979955456565,
+    "lift": 3.199545991068984
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0037037786638061893,
+    "confidence": 0.4790575916230367,
+    "lift": 3.607094871152487
+  },
+  {
+    "antecedents": [
+      "leg press"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.03101661640591795,
+    "confidence": 0.47905595498593306,
+    "lift": 3.1641836347703984
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.47652916073968704,
+    "lift": 4.559416983537412
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.010979781011556599,
+    "confidence": 0.47629499561018435,
+    "lift": 3.1939820084288275
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005940213321459653,
+    "confidence": 0.4753036437246963,
+    "lift": 3.1393994696602525
+  },
+  {
+    "antecedents": [
+      "hamstring curl"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.011344087109635897,
+    "confidence": 0.4741962774957699,
+    "lift": 3.1320852716781626
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003207917585864923,
+    "confidence": 0.46962962962962956,
+    "lift": 3.149284795109985
+  },
+  {
+    "antecedents": [
+      "plank",
+      "push up"
+    ],
+    "consequents": [
+      "sit up"
+    ],
+    "support": 0.0033698314072335,
+    "confidence": 0.4690140845070423,
+    "lift": 24.944582240482728
+  },
+  {
+    "antecedents": [
+      "dip (weighted)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.4685314685314685,
+    "lift": 3.046811177766692
+  },
+  {
+    "antecedents": [
+      "incline curl (dumbbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0033698314072335,
+    "confidence": 0.4676966292134832,
+    "lift": 3.999380884875215
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007033131615697545,
+    "confidence": 0.465194109772423,
+    "lift": 3.1195406853617875
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.008601671760205631,
+    "confidence": 0.4642271982523211,
+    "lift": 3.113056682742798
+  },
+  {
+    "antecedents": [
+      "push up",
+      "sit up"
+    ],
+    "consequents": [
+      "plank"
+    ],
+    "support": 0.0033698314072335,
+    "confidence": 0.4631432545201669,
+    "lift": 12.748437360772662
+  },
+  {
+    "antecedents": [
+      "lat pulldown",
+      "shrug (dumbbell)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003076362606002955,
+    "confidence": 0.4620060790273556,
+    "lift": 6.0357637119679035
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.010585116071970694,
+    "confidence": 0.4591747146619842,
+    "lift": 3.0328672517524193
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003106721447509563,
+    "confidence": 0.4548148148148148,
+    "lift": 3.004069939868349
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.00679026088364468,
+    "confidence": 0.45429925524712256,
+    "lift": 5.798623586283926
+  },
+  {
+    "antecedents": [
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.034679916614381995,
+    "confidence": 0.4530671602326811,
+    "lift": 3.8742809484140777
+  },
+  {
+    "antecedents": [
+      "bench press (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0030257645368252746,
+    "confidence": 0.44827586206896547,
+    "lift": 3.3753218636034004
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "hip adductor (machine)"
+    ],
+    "support": 0.00668906474528932,
+    "confidence": 0.44752877454299256,
+    "lift": 14.438099393662892
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.013843631727013297,
+    "confidence": 0.4463295269168026,
+    "lift": 5.696898887995944
+  },
+  {
+    "antecedents": [
+      "bicep curl (cable)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.005424113015847315,
+    "confidence": 0.44224422442244227,
+    "lift": 5.77758986898161
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.4419753086419753,
+    "lift": 2.963837951233898
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.44196428571428575,
+    "lift": 2.9637640326896237
+  },
+  {
+    "antecedents": [
+      "cable crunch",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.4418938307030129,
+    "lift": 2.9187263259414697
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.01215365621647878,
+    "confidence": 0.44186902133922,
+    "lift": 2.963125200237449
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.00395676900969459,
+    "confidence": 0.4403153153153153,
+    "lift": 2.9527062180258437
+  },
+  {
+    "antecedents": [
+      "seated shoulder press (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0038049748021615495,
+    "confidence": 0.4392523364485981,
+    "lift": 3.307378648520083
+  },
+  {
+    "antecedents": [
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.04326134914691655,
+    "confidence": 0.43864149394623436,
+    "lift": 2.8972445123172905
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004493108542978,
+    "confidence": 0.43786982248520717,
+    "lift": 4.189525573038653
+  },
+  {
+    "antecedents": [
+      "hip thrust (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005525309154202676,
+    "confidence": 0.4347133757961783,
+    "lift": 2.871299135714641
+  },
+  {
+    "antecedents": [
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.009198728976502257,
+    "confidence": 0.43430482560917344,
+    "lift": 2.868600645481405
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)",
+      "hammer curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0032888744965492117,
+    "confidence": 0.4321808510638298,
+    "lift": 3.695677339946827
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003207917585864923,
+    "confidence": 0.43188010899182555,
+    "lift": 4.378978925749458
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.01470379890303386,
+    "confidence": 0.42836084905660377,
+    "lift": 2.8725408782624506
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.006537270537756279,
+    "confidence": 0.4278145695364238,
+    "lift": 4.438868136544554
+  },
+  {
+    "antecedents": [
+      "pec fly (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0041186828310631664,
+    "confidence": 0.4257322175732217,
+    "lift": 2.7684921213576352
+  },
+  {
+    "antecedents": [
+      "seated row (machine)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.005747940658584468,
+    "confidence": 0.4251497005988024,
+    "lift": 3.6355523636009393
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.009532676233074945,
+    "confidence": 0.4222321828776333,
+    "lift": 2.8314427149567027
+  },
+  {
+    "antecedents": [
+      "hamstring curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0047663381165374726,
+    "confidence": 0.4201605709188224,
+    "lift": 2.8175507123409473
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.01470379890303386,
+    "confidence": 0.4186113511956208,
+    "lift": 2.764944622849332
+  },
+  {
+    "antecedents": [
+      "arnold press"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005940213321459653,
+    "confidence": 0.41809116809116803,
+    "lift": 3.1480442737300396
+  },
+  {
+    "antecedents": [
+      "hanging leg raise",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.417462482946794,
+    "lift": 2.7573563023752614
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.011728632435386266,
+    "confidence": 0.4172066234701224,
+    "lift": 4.230199478562544
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0032180371997004593,
+    "confidence": 0.41623036649214656,
+    "lift": 2.7067025767320967
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003309113724220284,
+    "confidence": 0.4139240506329114,
+    "lift": 3.96041313278883
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005343156105163027,
+    "confidence": 0.41314553990610325,
+    "lift": 3.1108058490125963
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "v-handle tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.411214953271028,
+    "lift": 3.9344925689713834
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "chest fly (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.41113841113841115,
+    "lift": 3.933760216099488
+  },
+  {
+    "antecedents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.021352385192981035,
+    "confidence": 0.41058571706557695,
+    "lift": 3.09153149870361
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "dip (weighted)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.005636624906393572,
+    "confidence": 0.40925789860396766,
+    "lift": 3.915767527521967
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.007822461494869357,
+    "confidence": 0.4081309398099261,
+    "lift": 5.209336503505202
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.003946649395859054,
+    "confidence": 0.407098121085595,
+    "lift": 3.0652714210177026
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "hip adductor (machine)"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.40637450199203184,
+    "lift": 13.11038705120751
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "hip abductor (machine)"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.4052980132450331,
+    "lift": 14.365401389113229
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.01750693193547734,
+    "confidence": 0.4046783625730994,
+    "lift": 2.71372872100628
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004553826225991217,
+    "confidence": 0.40322580645161293,
+    "lift": 3.448076128585625
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.019308223198202756,
+    "confidence": 0.40253164556962023,
+    "lift": 2.699333072197254
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "dip (bodyweight)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004655022364346576,
+    "confidence": 0.39792387543252594,
+    "lift": 3.807323927429449
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003076362606002955,
+    "confidence": 0.39790575916230364,
+    "lift": 3.807150591489206
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006233682122690198,
+    "confidence": 0.39716312056737585,
+    "lift": 2.623278206552165
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003653180594628509,
+    "confidence": 0.39713971397139713,
+    "lift": 2.663175370197172
+  },
+  {
+    "antecedents": [
+      "face pull",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.007286121961585946,
+    "confidence": 0.39691289966923926,
+    "lift": 5.185370031665109
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0038454532575036937,
+    "confidence": 0.3966597077244259,
+    "lift": 2.579436627922632
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0037847355744904773,
+    "confidence": 0.3961864406779661,
+    "lift": 2.6567828240306226
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.3949645948072384,
+    "lift": 2.5684134857634695
+  },
+  {
+    "antecedents": [
+      "cable crossover"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003987127851201198,
+    "confidence": 0.3943943943943944,
+    "lift": 3.773553956745281
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004493108542978,
+    "confidence": 0.39431616341030196,
+    "lift": 2.969028850646085
+  },
+  {
+    "antecedents": [
+      "overhead press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.00556578760954482,
+    "confidence": 0.3939828080229226,
+    "lift": 2.9665188298696408
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.011020259466898743,
+    "confidence": 0.39200863930885527,
+    "lift": 2.6287669462013072
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.004786577344208545,
+    "confidence": 0.39188069594034797,
+    "lift": 2.6279089720028033
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004462749701471392,
+    "confidence": 0.391651865008881,
+    "lift": 2.5468711500689394
+  },
+  {
+    "antecedents": [
+      "rear delt fly (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.009714829282114595,
+    "confidence": 0.39103869653767825,
+    "lift": 2.9443509535553405
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.39035769828926903,
+    "lift": 5.099731230770622
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.38995433789954337,
+    "lift": 2.614991026232158
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.007417676941447914,
+    "confidence": 0.38885941644562333,
+    "lift": 4.963356989708552
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005171122669958914,
+    "confidence": 0.38741470811220624,
+    "lift": 2.597960547382736
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.3873417721518987,
+    "lift": 4.9439859520158
+  },
+  {
+    "antecedents": [
+      "sit up"
+    ],
+    "consequents": [
+      "push up"
+    ],
+    "support": 0.00727600234775041,
+    "confidence": 0.3869752421959096,
+    "lift": 8.90340383779171
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006213442895019126,
+    "confidence": 0.38543628374136846,
+    "lift": 3.90806922704233
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0068307393389868245,
+    "confidence": 0.3846153846153846,
+    "lift": 5.02471219948745
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "deadlift (barbell)"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.38412017167381973,
+    "lift": 4.046262352037472
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.01049403954745087,
+    "confidence": 0.38407407407407407,
+    "lift": 2.4975935675080185
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.01054463761662855,
+    "confidence": 0.3833701250919794,
+    "lift": 4.893292304487112
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.004938371551741585,
+    "confidence": 0.3833464257659073,
+    "lift": 3.8868794481156805
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003875812099010302,
+    "confidence": 0.38223552894211577,
+    "lift": 2.5246808701959758
+  },
+  {
+    "antecedents": [
+      "dip (bodyweight)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.011698273593879658,
+    "confidence": 0.38189626693095474,
+    "lift": 2.4834315152397397
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "hip adductor (machine)"
+    ],
+    "support": 0.010757149507174806,
+    "confidence": 0.38127690100430417,
+    "lift": 12.30069239420285
+  },
+  {
+    "antecedents": [
+      "seated calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.019723127365459735,
+    "confidence": 0.3808872386163768,
+    "lift": 2.554188052768263
+  },
+  {
+    "antecedents": [
+      "walking lunge (dumbbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005758060272420005,
+    "confidence": 0.37983978638184246,
+    "lift": 2.547163952950659
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004412151632293712,
+    "confidence": 0.37913043478260866,
+    "lift": 2.465445597811781
+  },
+  {
+    "antecedents": [
+      "chest press (machine)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0037240178914772614,
+    "confidence": 0.37782340862423,
+    "lift": 3.6150032526558054
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0046955008196887206,
+    "confidence": 0.3769293257514216,
+    "lift": 2.4511320158004724
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)",
+      "hammer curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0037341375053127975,
+    "confidence": 0.3734817813765183,
+    "lift": 3.1937281647684994
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007822461494869357,
+    "confidence": 0.3725301204819278,
+    "lift": 2.498146135028715
+  },
+  {
+    "antecedents": [
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.009057054382804752,
+    "confidence": 0.37245110278818144,
+    "lift": 2.422010599850126
+  },
+  {
+    "antecedents": [
+      "chest fly (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004978850007083729,
+    "confidence": 0.37244511733535196,
+    "lift": 2.4219716770758626
+  },
+  {
+    "antecedents": [
+      "high bar squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004776457730373009,
+    "confidence": 0.3722397476340694,
+    "lift": 2.4586583371234187
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004725859661195329,
+    "confidence": 0.3721115537848606,
+    "lift": 2.4198025481648036
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0035621040701086844,
+    "confidence": 0.37170010559662087,
+    "lift": 3.178492647529152
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.01608006638466676,
+    "confidence": 0.3716959064327485,
+    "lift": 4.744283916542411
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.36983471074380164,
+    "lift": 3.749879586115431
+  },
+  {
+    "antecedents": [
+      "barbell row",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.004088323989556559,
+    "confidence": 0.3692870201096892,
+    "lift": 4.824458587149559
+  },
+  {
+    "antecedents": [
+      "incline chest fly (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0031775587443583155,
+    "confidence": 0.3689776733254994,
+    "lift": 2.399423251031798
+  },
+  {
+    "antecedents": [
+      "side plank"
+    ],
+    "consequents": [
+      "plank"
+    ],
+    "support": 0.004088323989556559,
+    "confidence": 0.36794171220400734,
+    "lift": 10.127928723280112
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.005545548381873748,
+    "confidence": 0.3668005354752343,
+    "lift": 5.665285294559503
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0034507883179177882,
+    "confidence": 0.36587982832618027,
+    "lift": 2.3792782887296973
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.03512517962314558,
+    "confidence": 0.3644477110457791,
+    "lift": 2.443946383694476
+  },
+  {
+    "antecedents": [
+      "bicep curl (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0034507883179177882,
+    "confidence": 0.3631522896698615,
+    "lift": 4.744312924457479
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0046955008196887206,
+    "confidence": 0.3630672926447574,
+    "lift": 3.473817169303799
+  },
+  {
+    "antecedents": [
+      "seated overhead press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005049687303932482,
+    "confidence": 0.36238198983297026,
+    "lift": 2.7285784418861976
+  },
+  {
+    "antecedents": [
+      "dip (assisted)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0034609079317533243,
+    "confidence": 0.3619047619047619,
+    "lift": 2.3534288471903633
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004725859661195329,
+    "confidence": 0.36173508907823393,
+    "lift": 2.7237075611500243
+  },
+  {
+    "antecedents": [
+      "hanging leg raise",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.36170212765957444,
+    "lift": 3.6674205675214266
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005677103361735716,
+    "confidence": 0.36170212765957444,
+    "lift": 2.4255348025966224
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006466433240907527,
+    "confidence": 0.3612210288298474,
+    "lift": 3.6625425432903613
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.00566698374790018,
+    "confidence": 0.36105738233397805,
+    "lift": 4.60849501517425
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0032686352688781396,
+    "confidence": 0.36089385474860336,
+    "lift": 3.453021779487557
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.36088709677419356,
+    "lift": 2.420069294858324
+  },
+  {
+    "antecedents": [
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.053775627922038494,
+    "confidence": 0.360613463626493,
+    "lift": 2.381866268875261
+  },
+  {
+    "antecedents": [
+      "leg curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.02823372260114554,
+    "confidence": 0.36037199690002586,
+    "lift": 2.416615091589764
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.019308223198202756,
+    "confidence": 0.3590515619119307,
+    "lift": 4.582892953372923
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.0044425104738003195,
+    "confidence": 0.3589533932951758,
+    "lift": 3.639550217385869
+  },
+  {
+    "antecedents": [
+      "bicep curl (machine)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004402032018458175,
+    "confidence": 0.3589108910891089,
+    "lift": 3.0691291481173035
+  },
+  {
+    "antecedents": [
+      "incline bench press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0030561233783318827,
+    "confidence": 0.3586698337292161,
+    "lift": 2.7006275243411824
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.006415835171729846,
+    "confidence": 0.3583945732052007,
+    "lift": 4.574507224876197
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (smith machine)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003106721447509563,
+    "confidence": 0.3578088578088578,
+    "lift": 3.62794538384524
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003309113724220284,
+    "confidence": 0.35776805251641136,
+    "lift": 3.6275316451433137
+  },
+  {
+    "antecedents": [
+      "lying leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.01745633386629966,
+    "confidence": 0.35773537951057655,
+    "lift": 3.6272003624539453
+  },
+  {
+    "antecedents": [
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.03527697383067862,
+    "confidence": 0.3576852041863328,
+    "lift": 2.3985977542945873
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg curl"
+    ],
+    "consequents": [
+      "hip adductor (machine)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.35676251331203407,
+    "lift": 11.509813268190854
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "leg curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0035115060009310046,
+    "confidence": 0.3566289825282631,
+    "lift": 2.39151484768444
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.007033131615697545,
+    "confidence": 0.3565931246793227,
+    "lift": 4.551513742516315
+  },
+  {
+    "antecedents": [
+      "chest supported row (machine)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.014896071565909046,
+    "confidence": 0.3561577546576337,
+    "lift": 3.0455864485771933
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.03432573013013823,
+    "confidence": 0.3561528769424611,
+    "lift": 2.3524039164293913
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.037209820073266,
+    "confidence": 0.3560224632068164,
+    "lift": 2.3151768734648055
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006213442895019126,
+    "confidence": 0.35594202898550725,
+    "lift": 2.3869082125603867
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00439191240462264,
+    "confidence": 0.3557377049180328,
+    "lift": 2.313325120070424
+  },
+  {
+    "antecedents": [
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.01230545042401182,
+    "confidence": 0.35565954957589935,
+    "lift": 3.4029401016645258
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (dumbbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.008844542492258495,
+    "confidence": 0.355573637103336,
+    "lift": 2.3485780142555615
+  },
+  {
+    "antecedents": [
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.053775627922038494,
+    "confidence": 0.3551901610854889,
+    "lift": 2.3818662688752608
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.004290716266267279,
+    "confidence": 0.35510887772194305,
+    "lift": 4.532568984594029
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.012862029184966301,
+    "confidence": 0.3547306726207089,
+    "lift": 3.394052634298336
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "incline curl (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0030460037644963467,
+    "confidence": 0.3541176470588235,
+    "lift": 3.0281410217254083
+  },
+  {
+    "antecedents": [
+      "incline bench press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0030156449229897385,
+    "confidence": 0.3539192399049881,
+    "lift": 2.3014998321223423
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.007842700722540428,
+    "confidence": 0.35388127853881274,
+    "lift": 4.516900049425006
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.007417676941447914,
+    "confidence": 0.3532530120481928,
+    "lift": 3.5817521182616785
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00791353801938918,
+    "confidence": 0.35256988277727686,
+    "lift": 2.2927251037302545
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.010929182942378919,
+    "confidence": 0.3523654159869494,
+    "lift": 3.5727524807098674
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005282438422149811,
+    "confidence": 0.35198921105866493,
+    "lift": 2.3604010490224723
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004412151632293712,
+    "confidence": 0.35189669087974174,
+    "lift": 2.6496287107097163
+  },
+  {
+    "antecedents": [
+      "abs crunch (machine)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.008480236394179198,
+    "confidence": 0.3507743825868564,
+    "lift": 2.316878747307531
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004462749701471392,
+    "confidence": 0.35027799841143764,
+    "lift": 3.351449578526476
+  },
+  {
+    "antecedents": [
+      "lunge (dumbbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006385476330223239,
+    "confidence": 0.349584487534626,
+    "lift": 2.344275236780448
+  },
+  {
+    "antecedents": [
+      "walking lunge (dumbbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005292558035985347,
+    "confidence": 0.34913217623497994,
+    "lift": 3.5399695660977066
+  },
+  {
+    "antecedents": [
+      "bicep curl (ez bar)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003622821753121901,
+    "confidence": 0.34858812074001944,
+    "lift": 4.554042955484828
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.00663846667611164,
+    "confidence": 0.3480106100795756,
+    "lift": 2.3337209871636473
+  },
+  {
+    "antecedents": [
+      "walking lunge (dumbbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005272318808314275,
+    "confidence": 0.3477970627503338,
+    "lift": 2.297213431379084
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "hip abductor (machine)"
+    ],
+    "support": 0.010757149507174806,
+    "confidence": 0.34704538034606597,
+    "lift": 12.300692394202851
+  },
+  {
+    "antecedents": [
+      "squat (smith machine)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005727701430913396,
+    "confidence": 0.3463892288861689,
+    "lift": 3.51215789247624
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.00663846667611164,
+    "confidence": 0.34635691657866946,
+    "lift": 3.511830267029649
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005424113015847315,
+    "confidence": 0.3462532299741602,
+    "lift": 2.6071359097521003
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004270477038596207,
+    "confidence": 0.34590163934426227,
+    "lift": 2.604488585547189
+  },
+  {
+    "antecedents": [
+      "incline curl (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0033698314072335,
+    "confidence": 0.3457943925233645,
+    "lift": 4.517544986828905
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.3446327683615819,
+    "lift": 3.297436183574245
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.007630188831994171,
+    "confidence": 0.34429223744292237,
+    "lift": 3.4908957848999282
+  },
+  {
+    "antecedents": [
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.01253820154222915,
+    "confidence": 0.3423597678916828,
+    "lift": 2.226329793598336
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.00513064421461677,
+    "confidence": 0.34187457855697906,
+    "lift": 4.363647908013893
+  },
+  {
+    "antecedents": [
+      "dip (weighted)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.003086482219838491,
+    "confidence": 0.34078212290502796,
+    "lift": 2.2160705331158894
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0123560484931895,
+    "confidence": 0.3407758861289422,
+    "lift": 2.216029976012754
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.34014139827179884,
+    "lift": 2.280950915745292
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.004149041672569775,
+    "confidence": 0.33968516984258496,
+    "lift": 4.335702546306453
+  },
+  {
+    "antecedents": [
+      "chest press (machine)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0037240178914772614,
+    "confidence": 0.3388581952117864,
+    "lift": 2.551454521063571
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.004725859661195329,
+    "confidence": 0.3386511965192168,
+    "lift": 4.42422447615494
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.012740593818939869,
+    "confidence": 0.3385318634041409,
+    "lift": 2.201437330736404
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005312797263656419,
+    "confidence": 0.3384912959381044,
+    "lift": 3.432078071209891
+  },
+  {
+    "antecedents": [
+      "t-bar row"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.009745188123621202,
+    "confidence": 0.3384885764499121,
+    "lift": 2.8944932630345632
+  },
+  {
+    "antecedents": [
+      "v-handle tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.007579590762816491,
+    "confidence": 0.3384545865341166,
+    "lift": 2.548415523630626
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005171122669958914,
+    "confidence": 0.33841059602649004,
+    "lift": 3.431259827431325
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.003430549090246716,
+    "confidence": 0.33798604187437686,
+    "lift": 2.890195974899807
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.009532676233074945,
+    "confidence": 0.33763440860215055,
+    "lift": 3.4233897998406846
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005919974093788581,
+    "confidence": 0.33756491633006347,
+    "lift": 2.1951493749607933
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.009502317391568338,
+    "confidence": 0.33680057388809187,
+    "lift": 4.298883894403702
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0034507883179177882,
+    "confidence": 0.33629191321499013,
+    "lift": 2.1868711687338047
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004270477038596207,
+    "confidence": 0.3362549800796813,
+    "lift": 3.2172777518894216
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.00439191240462264,
+    "confidence": 0.3361735089078234,
+    "lift": 3.216498238115152
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.01608006638466676,
+    "confidence": 0.3352320675105485,
+    "lift": 3.399031648600183
+  },
+  {
+    "antecedents": [
+      "walking lunge"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0030156449229897385,
+    "confidence": 0.3333333333333333,
+    "lift": 2.2016799233562816
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0044425104738003195,
+    "confidence": 0.332827899924185,
+    "lift": 3.4533166122121073
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.015280616891659415,
+    "confidence": 0.33208709038926765,
+    "lift": 2.2269396103479
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006122366370499302,
+    "confidence": 0.3304205352266521,
+    "lift": 3.3502458906245955
+  },
+  {
+    "antecedents": [
+      "lying leg curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.016120544840008907,
+    "confidence": 0.33036084612194117,
+    "lift": 2.21536360559704
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.00806533222692222,
+    "confidence": 0.3302942395358475,
+    "lift": 3.160245561817717
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.007417676941447914,
+    "confidence": 0.32855221873599283,
+    "lift": 5.074534721952694
+  },
+  {
+    "antecedents": [
+      "standing pullover (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004088323989556559,
+    "confidence": 0.3281884646628757,
+    "lift": 2.806414650489447
+  },
+  {
+    "antecedents": [
+      "skull crusher (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0037847355744904773,
+    "confidence": 0.32663755458515287,
+    "lift": 3.125258507842335
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0031370802890161712,
+    "confidence": 0.32563025210084034,
+    "lift": 2.451853874740997
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.01750693193547734,
+    "confidence": 0.32555513737297703,
+    "lift": 3.3009139713649542
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.01049403954745087,
+    "confidence": 0.32467125860989354,
+    "lift": 3.106445045828085
+  },
+  {
+    "antecedents": [
+      "leg press"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.020998198708737273,
+    "confidence": 0.3243201000312597,
+    "lift": 4.139584557593519
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.00791353801938918,
+    "confidence": 0.3240779113137174,
+    "lift": 2.4401654251904086
+  },
+  {
+    "antecedents": [
+      "skull crusher (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.003754376732983869,
+    "confidence": 0.3240174672489083,
+    "lift": 2.4397103077265023
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.323177366702938,
+    "lift": 3.2768049479633623
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004290716266267279,
+    "confidence": 0.32243346007604556,
+    "lift": 2.0967510961960167
+  },
+  {
+    "antecedents": [
+      "lunge (dumbbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005859256410775364,
+    "confidence": 0.320775623268698,
+    "lift": 2.118735748958372
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.010038656924851747,
+    "confidence": 0.3201032591158438,
+    "lift": 3.2456355283510625
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.009866623489647635,
+    "confidence": 0.3181076672104405,
+    "lift": 2.1331951315418913
+  },
+  {
+    "antecedents": [
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.011637555910866442,
+    "confidence": 0.31776733904393484,
+    "lift": 2.3926495664159977
+  },
+  {
+    "antecedents": [
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.04796696958044081,
+    "confidence": 0.3168237417284941,
+    "lift": 4.043901900042151
+  },
+  {
+    "antecedents": [
+      "shoulder press (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.010069015766358356,
+    "confidence": 0.3161741340959644,
+    "lift": 2.3806534275445754
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.006233682122690198,
+    "confidence": 0.3160595177013853,
+    "lift": 3.2793332024585773
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.31514581373471307,
+    "lift": 4.0224850195862665
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.005059806917768018,
+    "confidence": 0.315059861373661,
+    "lift": 3.014483479978934
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.003885931712845838,
+    "confidence": 0.31475409836065577,
+    "lift": 4.606541838241007
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004786577344208545,
+    "confidence": 0.3132450331125827,
+    "lift": 2.0689959014851413
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.010979781011556599,
+    "confidence": 0.31259003169115523,
+    "lift": 3.169456366884525
+  },
+  {
+    "antecedents": [
+      "incline curl (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.0030460037644963467,
+    "confidence": 0.3125649013499481,
+    "lift": 4.5765355492071675
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.009795786192798884,
+    "confidence": 0.3123588254275573,
+    "lift": 2.094644028983466
+  },
+  {
+    "antecedents": [
+      "hanging leg raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0031876783581938515,
+    "confidence": 0.31219028741328053,
+    "lift": 3.2391872975226326
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005575907223380356,
+    "confidence": 0.3114754098360656,
+    "lift": 2.0887199409052886
+  },
+  {
+    "antecedents": [
+      "squat (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.010979781011556599,
+    "confidence": 0.3112449799196787,
+    "lift": 3.2293790871170525
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.020603533769151368,
+    "confidence": 0.310555216595485,
+    "lift": 2.0195081201324454
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.0032281568135359953,
+    "confidence": 0.31000971817298345,
+    "lift": 3.9569284849416015
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.010585116071970694,
+    "confidence": 0.308372641509434,
+    "lift": 3.1266948172254514
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003885931712845838,
+    "confidence": 0.3081861958266453,
+    "lift": 2.9487164503483188
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.003207917585864923,
+    "confidence": 0.3080660835762876,
+    "lift": 6.313246421991205
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006709303972960392,
+    "confidence": 0.30765661252900234,
+    "lift": 3.1194347565043046
+  },
+  {
+    "antecedents": [
+      "cable crunch",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.3073852295409181,
+    "lift": 2.0612916403891455
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.0032281568135359953,
+    "confidence": 0.3073217726396917,
+    "lift": 3.116039701283506
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.3068181818181818,
+    "lift": 6.287672976132122
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "hip abductor (machine)"
+    ],
+    "support": 0.00668906474528932,
+    "confidence": 0.3067285382830626,
+    "lift": 10.871700393133315
+  },
+  {
+    "antecedents": [
+      "hamstring curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007336720030763626,
+    "confidence": 0.3066835871404399,
+    "lift": 2.0565865033960367
+  },
+  {
+    "antecedents": [
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.024418628185148453,
+    "confidence": 0.30645161290322576,
+    "lift": 1.99282281415313
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.00566698374790018,
+    "confidence": 0.30584380120152915,
+    "lift": 4.72380005425644
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005059806917768018,
+    "confidence": 0.30543677458766033,
+    "lift": 1.9862234266388141
+  },
+  {
+    "antecedents": [
+      "bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.013803153271671153,
+    "confidence": 0.3053503469890307,
+    "lift": 2.299155028098296
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.008601671760205631,
+    "confidence": 0.30465949820788535,
+    "lift": 3.1610502198558184
+  },
+  {
+    "antecedents": [
+      "squat (paused)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.003400190248740108,
+    "confidence": 0.3037974683544304,
+    "lift": 2.0065943605272443
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.0037037786638061893,
+    "confidence": 0.30323115161557584,
+    "lift": 3.0745635071155317
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.011394685178813577,
+    "confidence": 0.30276956171013714,
+    "lift": 2.8968902545577393
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.006749782428302536,
+    "confidence": 0.3024943310657596,
+    "lift": 3.8610029459127144
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.010352364953753366,
+    "confidence": 0.3015919811320755,
+    "lift": 3.8494854548578457
+  },
+  {
+    "antecedents": [
+      "cable crunch"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.010139853063207109,
+    "confidence": 0.30144404332129965,
+    "lift": 1.9910498945875401
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005039567690096946,
+    "confidence": 0.3012704174228675,
+    "lift": 2.0202863808966423
+  },
+  {
+    "antecedents": [
+      "upright row (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0049990892347548015,
+    "confidence": 0.3012195121951219,
+    "lift": 2.26805164249448
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003632941366957437,
+    "confidence": 0.30067001675041877,
+    "lift": 2.016260159829186
+  },
+  {
+    "antecedents": [
+      "chest fly (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.00400736707887227,
+    "confidence": 0.29977289931869794,
+    "lift": 2.257159278030714
+  },
+  {
+    "antecedents": [
+      "face pull"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.01835697949766237,
+    "confidence": 0.2995871180842279,
+    "lift": 2.561837991939013
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.2993951612903226,
+    "lift": 3.8214454983708475
+  },
+  {
+    "antecedents": [
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006324758647210022,
+    "confidence": 0.29861442904921165,
+    "lift": 2.0024756141276465
+  },
+  {
+    "antecedents": [
+      "skull crusher"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00576817988625554,
+    "confidence": 0.29765013054830286,
+    "lift": 1.935587694164398
+  },
+  {
+    "antecedents": [
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.034679916614381995,
+    "confidence": 0.2965559016960886,
+    "lift": 3.874280948414077
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.009299925114857617,
+    "confidence": 0.29654727331397224,
+    "lift": 3.78509538289074
+  },
+  {
+    "antecedents": [
+      "cable crunch",
+      "leg extension"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.003005525309154203,
+    "confidence": 0.2964071856287425,
+    "lift": 3.075426844756518
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.005677103361735716,
+    "confidence": 0.29619852164730726,
+    "lift": 3.073261813538808
+  },
+  {
+    "antecedents": [
+      "leg press"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.019166548604505253,
+    "confidence": 0.2960300093779306,
+    "lift": 1.9851447792283081
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.2947976878612717,
+    "lift": 3.058727206958751
+  },
+  {
+    "antecedents": [
+      "leg press"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.019075472079985428,
+    "confidence": 0.29462331978743356,
+    "lift": 2.9872857802949526
+  },
+  {
+    "antecedents": [
+      "tricep kickback"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0030257645368252746,
+    "confidence": 0.293713163064833,
+    "lift": 1.9099860060371592
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004017486692707806,
+    "confidence": 0.2934220251293422,
+    "lift": 1.9080927664669212
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.29316181448882866,
+    "lift": 1.9659109788380207
+  },
+  {
+    "antecedents": [
+      "dip (weighted)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.013772794430164544,
+    "confidence": 0.29256233877901977,
+    "lift": 1.9025023159690166
+  },
+  {
+    "antecedents": [
+      "squat (smith machine)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.004837175413386225,
+    "confidence": 0.29253365973072215,
+    "lift": 3.035236369936004
+  },
+  {
+    "antecedents": [
+      "barbell row"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.011070857536076423,
+    "confidence": 0.2925133689839572,
+    "lift": 2.501348744916639
+  },
+  {
+    "antecedents": [
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.015118703070290838,
+    "confidence": 0.291967949970686,
+    "lift": 3.7266454249810446
+  },
+  {
+    "antecedents": [
+      "lat pulldown (close grip)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.005889615252281973,
+    "confidence": 0.29187562688064195,
+    "lift": 3.813136660112543
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.0037037786638061893,
+    "confidence": 0.2916334661354582,
+    "lift": 5.6078295109114045
+  },
+  {
+    "antecedents": [
+      "hip thrust (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007316480803092554,
+    "confidence": 0.2915322580645161,
+    "lift": 1.9549833521592939
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg curl"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.0030561233783318827,
+    "confidence": 0.2909441233140655,
+    "lift": 4.49367245665041
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.01334777064907203,
+    "confidence": 0.29008137233340664,
+    "lift": 2.9412334343569237
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.013843631727013297,
+    "confidence": 0.28860759493670884,
+    "lift": 4.457584450837088
+  },
+  {
+    "antecedents": [
+      "tricep extension (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.007670667287336315,
+    "confidence": 0.28832255610498286,
+    "lift": 1.8749314523020661
+  },
+  {
+    "antecedents": [
+      "leg curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.022576858467080897,
+    "confidence": 0.28816843192973396,
+    "lift": 2.921837482703925
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.003096601833674027,
+    "confidence": 0.28786453433678266,
+    "lift": 1.9303879990562018
+  },
+  {
+    "antecedents": [
+      "chest fly (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0038454532575036937,
+    "confidence": 0.28766086298258897,
+    "lift": 2.752330669850259
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005919974093788581,
+    "confidence": 0.287328094302554,
+    "lift": 2.1634553202369537
+  },
+  {
+    "antecedents": [
+      "high bar squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.003683539436135117,
+    "confidence": 0.2870662460567824,
+    "lift": 2.978508221633675
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.0037240178914772614,
+    "confidence": 0.28615863141524106,
+    "lift": 4.189898301850836
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.011799469732235017,
+    "confidence": 0.2857843137254902,
+    "lift": 2.443807053801098
+  },
+  {
+    "antecedents": [
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.04326134914691655,
+    "confidence": 0.28574293162221776,
+    "lift": 2.8972445123172905
+  },
+  {
+    "antecedents": [
+      "incline bench press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.01539193264385031,
+    "confidence": 0.28531232414181207,
+    "lift": 2.1482774494853385
+  },
+  {
+    "antecedents": [
+      "hack squat"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.010504159161286405,
+    "confidence": 0.2847736625514403,
+    "lift": 3.6348183655396835
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.008824303264587424,
+    "confidence": 0.2846882141691153,
+    "lift": 2.8865503742831553
+  },
+  {
+    "antecedents": [
+      "hip thrust (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.007114088526381833,
+    "confidence": 0.28346774193548385,
+    "lift": 2.9411712854452583
+  },
+  {
+    "antecedents": [
+      "hip thrust (machine)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.0036025825254508287,
+    "confidence": 0.28343949044585987,
+    "lift": 3.61778914581232
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.2834123222748815,
+    "lift": 2.711680757412785
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.004938371551741585,
+    "confidence": 0.28289855072463765,
+    "lift": 2.935265538167497
+  },
+  {
+    "antecedents": [
+      "chest supported row (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004725859661195329,
+    "confidence": 0.28234582829504234,
+    "lift": 2.4144037781636807
+  },
+  {
+    "antecedents": [
+      "hack squat"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.010413082636766581,
+    "confidence": 0.2823045267489712,
+    "lift": 2.8623813589451914
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.01049403954745087,
+    "confidence": 0.282023388632037,
+    "lift": 2.123513198555367
+  },
+  {
+    "antecedents": [
+      "hamstring curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003197797972029387,
+    "confidence": 0.2818911685994647,
+    "lift": 2.858190180449611
+  },
+  {
+    "antecedents": [
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.022445303487218928,
+    "confidence": 0.28168656337312675,
+    "lift": 2.1209770511586132
+  },
+  {
+    "antecedents": [
+      "incline bench press (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.01518954036713959,
+    "confidence": 0.2815606827987244,
+    "lift": 1.8309596968152375
+  },
+  {
+    "antecedents": [
+      "leg raise (captain's chair)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.00459430468133336,
+    "confidence": 0.2793846153846154,
+    "lift": 1.8453464957607728
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.0032888744965492117,
+    "confidence": 0.2787307032590052,
+    "lift": 4.081139522099329
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.005312797263656419,
+    "confidence": 0.27851458885941643,
+    "lift": 2.8897789418216937
+  },
+  {
+    "antecedents": [
+      "bayesian curl"
+    ],
+    "consequents": [
+      "overhead tricep extension (cable)"
+    ],
+    "support": 0.004078204375721022,
+    "confidence": 0.2781228433402346,
+    "lift": 5.222029856202794
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "incline bench press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004219878969418527,
+    "confidence": 0.27781479013990673,
+    "lift": 2.091824286196686
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0037037786638061893,
+    "confidence": 0.27748294162244125,
+    "lift": 1.8327858649319162
+  },
+  {
+    "antecedents": [
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.006739662814467,
+    "confidence": 0.27715355805243447,
+    "lift": 2.6517970855563
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.007822461494869357,
+    "confidence": 0.2770609318996416,
+    "lift": 4.279244634019816
+  },
+  {
+    "antecedents": [
+      "dip (bodyweight)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.008459997166508125,
+    "confidence": 0.27618103733069044,
+    "lift": 2.64249203591636
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.006021170232143941,
+    "confidence": 0.27610208816705334,
+    "lift": 3.5241353847186616
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "face pull"
+    ],
+    "support": 0.00487765386872837,
+    "confidence": 0.27464387464387463,
+    "lift": 4.482206177466293
+  },
+  {
+    "antecedents": [
+      "reverse pec deck"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0061122467566637655,
+    "confidence": 0.27454545454545454,
+    "lift": 2.3477009975140812
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.004098443603392094,
+    "confidence": 0.2742044685172647,
+    "lift": 2.780252120863848
+  },
+  {
+    "antecedents": [
+      "incline bench press (barbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.004219878969418527,
+    "confidence": 0.27416173570019725,
+    "lift": 1.7828451170322515
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.007701026128842923,
+    "confidence": 0.2739380849532037,
+    "lift": 2.842294590393289
+  },
+  {
+    "antecedents": [
+      "squat (smith machine)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.004523467384484608,
+    "confidence": 0.27356181150550796,
+    "lift": 3.491711584778001
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.01470379890303386,
+    "confidence": 0.27342867896123446,
+    "lift": 2.8370091555639716
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.01026128842923354,
+    "confidence": 0.2726539392309761,
+    "lift": 2.052965328171792
+  },
+  {
+    "antecedents": [
+      "chest press (machine)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.010989900625392134,
+    "confidence": 0.2723169508525577,
+    "lift": 2.6055205702312207
+  },
+  {
+    "antecedents": [
+      "incline chest press (machine)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0048574146410572975,
+    "confidence": 0.272108843537415,
+    "lift": 1.7694953738273411
+  },
+  {
+    "antecedents": [
+      "bicep curl (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.012264971968669675,
+    "confidence": 0.2719928186714542,
+    "lift": 2.325872824115244
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.2718141870684243,
+    "lift": 2.820257700307387
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.006122366370499302,
+    "confidence": 0.2711788435679068,
+    "lift": 2.8136655778762507
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.011728632435386266,
+    "confidence": 0.27111111111111114,
+    "lift": 5.555922392736993
+  },
+  {
+    "antecedents": [
+      "seated wide-grip row (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0036025825254508287,
+    "confidence": 0.2709284627092846,
+    "lift": 2.316771272759267
+  },
+  {
+    "antecedents": [
+      "lunge (dumbbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.004948491165577122,
+    "confidence": 0.2709141274238227,
+    "lift": 2.7468902363808034
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0034507883179177882,
+    "confidence": 0.2708498808578237,
+    "lift": 2.039381554907682
+  },
+  {
+    "antecedents": [
+      "bayesian curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.003966888623530126,
+    "confidence": 0.27053140096618356,
+    "lift": 2.3133759069467223
+  },
+  {
+    "antecedents": [
+      "skull crusher"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005241959966807667,
+    "confidence": 0.2704960835509138,
+    "lift": 2.0367176153866353
+  },
+  {
+    "antecedents": [
+      "squat (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.009532676233074945,
+    "confidence": 0.270223752151463,
+    "lift": 3.4491049780551886
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007620069218158635,
+    "confidence": 0.2700860832137733,
+    "lift": 1.811167655470864
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.00566698374790018,
+    "confidence": 0.26987951807228916,
+    "lift": 2.8001841890873025
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0031775587443583155,
+    "confidence": 0.26929674099485423,
+    "lift": 3.5181604113735463
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.012376287720860572,
+    "confidence": 0.2689685506927645,
+    "lift": 2.7907322808019317
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.003309113724220284,
+    "confidence": 0.2689144736842105,
+    "lift": 1.7487227204873859
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005899734866117509,
+    "confidence": 0.2681692732290708,
+    "lift": 1.7438767598019425
+  },
+  {
+    "antecedents": [
+      "leg curl"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.020998198708737273,
+    "confidence": 0.26801859984500126,
+    "lift": 4.139584557593519
+  },
+  {
+    "antecedents": [
+      "wide grip lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003987127851201198,
+    "confidence": 0.26784500339904826,
+    "lift": 3.4991945459924843
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0035621040701086844,
+    "confidence": 0.267680608365019,
+    "lift": 3.497046847886627
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.0037341375053127975,
+    "confidence": 0.2675852066715011,
+    "lift": 3.917948577991465
+  },
+  {
+    "antecedents": [
+      "hamstring curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006395595944058774,
+    "confidence": 0.2673434856175973,
+    "lift": 2.7106862878883367
+  },
+  {
+    "antecedents": [
+      "front squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0051610030561233785,
+    "confidence": 0.26673640167364016,
+    "lift": 1.7618045411794514
+  },
+  {
+    "antecedents": [
+      "face pull",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.00487765386872837,
+    "confidence": 0.2657111356119074,
+    "lift": 3.890508667787445
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.006122366370499302,
+    "confidence": 0.2655838454784899,
+    "lift": 3.3898817414742206
+  },
+  {
+    "antecedents": [
+      "dumbbell row"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.006770021655973608,
+    "confidence": 0.2654761904761905,
+    "lift": 2.270147645420231
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.012214373899491995,
+    "confidence": 0.2654497470859908,
+    "lift": 1.7533061364576856
+  },
+  {
+    "antecedents": [
+      "tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.007053370843368617,
+    "confidence": 0.26511981742107266,
+    "lift": 1.9962366746354432
+  },
+  {
+    "antecedents": [
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.01753729077698395,
+    "confidence": 0.2643380109823063,
+    "lift": 1.990350012896186
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg press"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.005545548381873748,
+    "confidence": 0.2640963855421687,
+    "lift": 5.1001517737944155
+  },
+  {
+    "antecedents": [
+      "hammer curl (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.2640692640692641,
+    "lift": 2.2581166958114003
+  },
+  {
+    "antecedents": [
+      "lying leg curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.012882268412637374,
+    "confidence": 0.2639983409373704,
+    "lift": 2.7391629624894023
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.26357199055861524,
+    "lift": 3.8574728914427197
+  },
+  {
+    "antecedents": [
+      "bicep curl (machine)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0032180371997004593,
+    "confidence": 0.2623762376237624,
+    "lift": 3.4277492133137164
+  },
+  {
+    "antecedents": [
+      "hip thrust (machine)"
+    ],
+    "consequents": [
+      "hip abductor (machine)"
+    ],
+    "support": 0.003329352951891356,
+    "confidence": 0.26194267515923564,
+    "lift": 9.284308204406509
+  },
+  {
+    "antecedents": [
+      "pull-up (assisted)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00390617094051691,
+    "confidence": 0.2618724559023067,
+    "lift": 2.2393312865484716
+  },
+  {
+    "antecedents": [
+      "military press (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.003754376732983869,
+    "confidence": 0.26182074805928013,
+    "lift": 1.702592964051194
+  },
+  {
+    "antecedents": [
+      "shrug (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.006658705903782712,
+    "confidence": 0.2616302186878728,
+    "lift": 2.237259860704241
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.027322957355947298,
+    "confidence": 0.26142525174283504,
+    "lift": 1.9684182053279087
+  },
+  {
+    "antecedents": [
+      "sit up"
+    ],
+    "consequents": [
+      "plank"
+    ],
+    "support": 0.004908012710234977,
+    "confidence": 0.26103336921420883,
+    "lift": 7.185179799167044
+  },
+  {
+    "antecedents": [
+      "walking lunge (dumbbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.003946649395859054,
+    "confidence": 0.26034712950600797,
+    "lift": 2.701279151987053
+  },
+  {
+    "antecedents": [
+      "hammer curl"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.017759922281365744,
+    "confidence": 0.26003852422581125,
+    "lift": 2.2236489171812233
+  },
+  {
+    "antecedents": [
+      "single arm row (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004290716266267279,
+    "confidence": 0.2586943258084198,
+    "lift": 2.2121543689629997
+  },
+  {
+    "antecedents": [
+      "bicep curl (ez bar)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.01039284340909551,
+    "confidence": 0.2586250314782171,
+    "lift": 2.2115618172909706
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003875812099010302,
+    "confidence": 0.25826028320971006,
+    "lift": 2.618588617506375
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "deadlift (barbell)"
+    ],
+    "support": 0.005899734866117509,
+    "confidence": 0.2573951434878587,
+    "lift": 2.7113605467629487
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.005302677649820882,
+    "confidence": 0.25736738703339884,
+    "lift": 2.4624835836431456
+  },
+  {
+    "antecedents": [
+      "lat pulldown",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003430549090246716,
+    "confidence": 0.2572078907435508,
+    "lift": 3.3602286287012433
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.0043008358801028155,
+    "confidence": 0.2571082879612825,
+    "lift": 3.971073272859958
+  },
+  {
+    "antecedents": [
+      "goblet squat"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005747940658584468,
+    "confidence": 0.25574065736154883,
+    "lift": 2.593041276334243
+  },
+  {
+    "antecedents": [
+      "preacher curl (barbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.005889615252281973,
+    "confidence": 0.2557117750439367,
+    "lift": 2.186649894971594
+  },
+  {
+    "antecedents": [
+      "v-handle tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0057175818170778605,
+    "confidence": 0.2553095345684591,
+    "lift": 1.6602512231499074
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)",
+      "leg extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.00556578760954482,
+    "confidence": 0.2552204176334107,
+    "lift": 1.711480132308522
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "leg extension"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.003106721447509563,
+    "confidence": 0.2543496271748136,
+    "lift": 4.911925240992912
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.010929182942378919,
+    "confidence": 0.25263157894736843,
+    "lift": 3.9019298794031028
+  },
+  {
+    "antecedents": [
+      "preacher curl (ez bar)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.005343156105163027,
+    "confidence": 0.2526315789473684,
+    "lift": 2.1603104334043826
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.013954947479204194,
+    "confidence": 0.25251785387291703,
+    "lift": 2.159337944272578
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.0031471999028517073,
+    "confidence": 0.25182186234817816,
+    "lift": 3.214225367285233
+  },
+  {
+    "antecedents": [
+      "bayesian curl"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.003683539436135117,
+    "confidence": 0.25120772946859904,
+    "lift": 3.6765173890148137
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "hip adductor (machine)"
+    ],
+    "support": 0.004189520127911919,
+    "confidence": 0.250453720508167,
+    "lift": 8.080096556701289
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.005343156105163027,
+    "confidence": 0.2502369668246445,
+    "lift": 1.6272648452012188
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.004017486692707806,
+    "confidence": 0.2501575299306868,
+    "lift": 3.1394547615812303
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.004472869315306928,
+    "confidence": 0.2498586772187677,
+    "lift": 4.825197335431735
+  },
+  {
+    "antecedents": [
+      "front raise"
+    ],
+    "consequents": [
+      "face pull"
+    ],
+    "support": 0.004452630087635856,
+    "confidence": 0.2497162315550511,
+    "lift": 4.075385395509008
+  },
+  {
+    "antecedents": [
+      "reverse pec deck"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0055556679957092835,
+    "confidence": 0.24954545454545451,
+    "lift": 1.878968510154886
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.003076362606002955,
+    "confidence": 0.24918032786885247,
+    "lift": 4.791496719078471
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.007033131615697545,
+    "confidence": 0.24910394265232977,
+    "lift": 4.810622123317945
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "overhead tricep extension (cable)"
+    ],
+    "support": 0.0032180371997004593,
+    "confidence": 0.2488262910798122,
+    "lift": 4.671958280814152
+  },
+  {
+    "antecedents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.012932866481815054,
+    "confidence": 0.24868651488616464,
+    "lift": 1.6171824182693484
+  },
+  {
+    "antecedents": [
+      "good morning"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.00439191240462264,
+    "confidence": 0.24856815578465064,
+    "lift": 1.6668707938604512
+  },
+  {
+    "antecedents": [
+      "rear delt fly (machine)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00625392135036127,
+    "confidence": 0.24849215922798554,
+    "lift": 2.1249133082892935
+  },
+  {
+    "antecedents": [
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005262199194478739,
+    "confidence": 0.2484472049689441,
+    "lift": 2.5190904884692302
+  },
+  {
+    "antecedents": [
+      "back extension"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.004310955493938351,
+    "confidence": 0.24810716365754223,
+    "lift": 1.638757683197046
+  },
+  {
+    "antecedents": [
+      "hip thrust (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.006223562508854662,
+    "confidence": 0.2479838709677419,
+    "lift": 1.637943330077556
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.24759793052475979,
+    "lift": 2.369009711328012
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "overhead tricep extension (cable)"
+    ],
+    "support": 0.003076362606002955,
+    "confidence": 0.24695369618196586,
+    "lift": 4.6367984703229155
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0076403084458297075,
+    "confidence": 0.24649036891936013,
+    "lift": 1.6529373829990046
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.0032180371997004593,
+    "confidence": 0.24632068164213786,
+    "lift": 4.736508487743293
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "dip (weighted)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.2461425422483468,
+    "lift": 3.089067023100982
+  },
+  {
+    "antecedents": [
+      "lying leg curl",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.00395676900969459,
+    "confidence": 0.24544883866917766,
+    "lift": 4.740035829511589
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.013064421461677023,
+    "confidence": 0.24529735892076765,
+    "lift": 1.5951430911971847
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.008601671760205631,
+    "confidence": 0.24488619994237973,
+    "lift": 3.12569936785147
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.007336720030763626,
+    "confidence": 0.2448497129348193,
+    "lift": 3.7817378763352565
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.00791353801938918,
+    "confidence": 0.2448340638697558,
+    "lift": 3.0726457357736257
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.004381792790787103,
+    "confidence": 0.2447710570944036,
+    "lift": 5.016131547066523
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.010585116071970694,
+    "confidence": 0.2446783625730994,
+    "lift": 2.5387050013385695
+  },
+  {
+    "antecedents": [
+      "chest press (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.009856503875812099,
+    "confidence": 0.24423269809428286,
+    "lift": 1.8389657696038435
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.006699184359124856,
+    "confidence": 0.24356144223693893,
+    "lift": 3.7618403562003486
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0323220465907021,
+    "confidence": 0.24337092349893324,
+    "lift": 1.582615682963779
+  },
+  {
+    "antecedents": [
+      "v-handle tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.005434232629682852,
+    "confidence": 0.24265702666064168,
+    "lift": 2.3217352885893967
+  },
+  {
+    "antecedents": [
+      "incline bench press (smith machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005383634560505171,
+    "confidence": 0.24247948951686416,
+    "lift": 1.825764873139095
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.01656580784877249,
+    "confidence": 0.242446682464455,
+    "lift": 2.3197227215116687
+  },
+  {
+    "antecedents": [
+      "leg press"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.015695521058916393,
+    "confidence": 0.24241950609565488,
+    "lift": 2.5152678237463695
+  },
+  {
+    "antecedents": [
+      "chest fly (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (barbell)"
+    ],
+    "support": 0.0032382764273715314,
+    "confidence": 0.24224072672218017,
+    "lift": 4.490291527524367
+  },
+  {
+    "antecedents": [
+      "shrug (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.006162844825841446,
+    "confidence": 0.24214711729622268,
+    "lift": 1.8232622551796809
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.037209820073266,
+    "confidence": 0.2419715714661753,
+    "lift": 2.3151768734648055
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.005424113015847315,
+    "confidence": 0.2416591523895401,
+    "lift": 2.312187656935474
+  },
+  {
+    "antecedents": [
+      "military press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0034609079317533243,
+    "confidence": 0.24135497529992941,
+    "lift": 1.8172977711969236
+  },
+  {
+    "antecedents": [
+      "seated calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.012497723086887005,
+    "confidence": 0.24135235489544657,
+    "lift": 2.5041954017280803
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.005282438422149811,
+    "confidence": 0.24011039558417663,
+    "lift": 1.5859387120404496
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.004553826225991217,
+    "confidence": 0.24000000000000002,
+    "lift": 3.1354204124801694
+  },
+  {
+    "antecedents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.01245724463154486,
+    "confidence": 0.23954076668612573,
+    "lift": 2.2919190048789284
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.02305248031735109,
+    "confidence": 0.23918521629567407,
+    "lift": 2.4251800434953745
+  },
+  {
+    "antecedents": [
+      "incline chest press (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004260357424760671,
+    "confidence": 0.2386621315192744,
+    "lift": 1.7970218311849784
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.012700115363597725,
+    "confidence": 0.23845715371461143,
+    "lift": 1.7954784376539525
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.0126090388390779,
+    "confidence": 0.2367471024130724,
+    "lift": 3.4648808006894236
+  },
+  {
+    "antecedents": [
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.03527697383067862,
+    "confidence": 0.23656351791530944,
+    "lift": 2.3985977542945873
+  },
+  {
+    "antecedents": [
+      "leg curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.018529012932866483,
+    "confidence": 0.2365021958150349,
+    "lift": 2.4538716911014404
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0070837296848752255,
+    "confidence": 0.2364066193853428,
+    "lift": 2.452880020413776
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003946649395859054,
+    "confidence": 0.23593466424682394,
+    "lift": 2.392221593632531
+  },
+  {
+    "antecedents": [
+      "lat pulldown (close grip)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.004756218502701937,
+    "confidence": 0.2357071213640923,
+    "lift": 2.01558552431264
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (dumbbell)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.005859256410775364,
+    "confidence": 0.2355573637103336,
+    "lift": 2.3883960155066433
+  },
+  {
+    "antecedents": [
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.03512517962314558,
+    "confidence": 0.23554560260586324,
+    "lift": 2.443946383694476
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0052520795806432026,
+    "confidence": 0.23537414965986395,
+    "lift": 1.578393235687326
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.01605982715699569,
+    "confidence": 0.23504146919431282,
+    "lift": 1.5284501120586735
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (dumbbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.005839017183104292,
+    "confidence": 0.23474369406021153,
+    "lift": 1.5741654695739675
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.006618227448440568,
+    "confidence": 0.23457675753228122,
+    "lift": 2.3784533168299777
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "overhead tricep extension (cable)"
+    ],
+    "support": 0.003885931712845838,
+    "confidence": 0.23457544288332316,
+    "lift": 4.404384593358205
+  },
+  {
+    "antecedents": [
+      "standing calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.02305248031735109,
+    "confidence": 0.23373691770982968,
+    "lift": 2.4251800434953745
+  },
+  {
+    "antecedents": [
+      "back extension"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0040478455342144145,
+    "confidence": 0.23296447291788003,
+    "lift": 3.0435065157058525
+  },
+  {
+    "antecedents": [
+      "arnold press"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0032989941103847478,
+    "confidence": 0.23219373219373218,
+    "lift": 2.2216227951123377
+  },
+  {
+    "antecedents": [
+      "pull-up (assisted)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.0034609079317533243,
+    "confidence": 0.23202170963364993,
+    "lift": 3.031190018849553
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.006952174705013256,
+    "confidence": 0.23201621073961498,
+    "lift": 1.555875265531167
+  },
+  {
+    "antecedents": [
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.008024853771580076,
+    "confidence": 0.23193916349809882,
+    "lift": 3.3945148487196577
+  },
+  {
+    "antecedents": [
+      "overhead tricep extension (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.012345928879353964,
+    "confidence": 0.23180695420862626,
+    "lift": 2.217922114735479
+  },
+  {
+    "antecedents": [
+      "deadlift (barbell)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.022000040478455343,
+    "confidence": 0.23174501652275878,
+    "lift": 1.5540566668530116
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.003875812099010302,
+    "confidence": 0.23169993950393222,
+    "lift": 2.404045004399367
+  },
+  {
+    "antecedents": [
+      "overhead press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.0032686352688781396,
+    "confidence": 0.2313753581661891,
+    "lift": 1.5046097751557301
+  },
+  {
+    "antecedents": [
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.00799449493007347,
+    "confidence": 0.23106171395144778,
+    "lift": 1.5025701796034592
+  },
+  {
+    "antecedents": [
+      "single arm tricep extension (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.23088455772113944,
+    "lift": 2.209096652293528
+  },
+  {
+    "antecedents": [
+      "dip (weighted)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.010858345645530166,
+    "confidence": 0.2306534823731728,
+    "lift": 2.2068857301657814
+  },
+  {
+    "antecedents": [
+      "bicep curl (barbell)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.009502317391568338,
+    "confidence": 0.23054259759391113,
+    "lift": 1.971422499916503
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.005312797263656419,
+    "confidence": 0.23046532045654083,
+    "lift": 3.5595689335533685
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.006466433240907527,
+    "confidence": 0.23002159827213822,
+    "lift": 3.552715582690865
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg extension"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.00508004614543909,
+    "confidence": 0.22922374429223744,
+    "lift": 4.697518034730469
+  },
+  {
+    "antecedents": [
+      "standing calf raise"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.022576858467080897,
+    "confidence": 0.22891442643135645,
+    "lift": 2.9218374827039244
+  },
+  {
+    "antecedents": [
+      "chin-up (weighted)"
+    ],
+    "consequents": [
+      "dip (weighted)"
+    ],
+    "support": 0.004422271246129247,
+    "confidence": 0.22867608581894294,
+    "lift": 4.857548032772206
+  },
+  {
+    "antecedents": [
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0055556679957092835,
+    "confidence": 0.22846441947565543,
+    "lift": 1.7202375040951934
+  },
+  {
+    "antecedents": [
+      "hanging leg raise"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.01021069036005586,
+    "confidence": 0.22761109857884051,
+    "lift": 1.5263350664606314
+  },
+  {
+    "antecedents": [
+      "barbell row"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.008611791374041167,
+    "confidence": 0.22754010695187166,
+    "lift": 1.4796695372973185
+  },
+  {
+    "antecedents": [
+      "incline chest press (machine)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.00405796514804995,
+    "confidence": 0.22732426303854875,
+    "lift": 3.326974085447765
+  },
+  {
+    "antecedents": [
+      "leg extension"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.03432573013013823,
+    "confidence": 0.22672281264621347,
+    "lift": 2.3524039164293913
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0030156449229897385,
+    "confidence": 0.226615969581749,
+    "lift": 1.7063194820275276
+  },
+  {
+    "antecedents": [
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.00679026088364468,
+    "confidence": 0.22661263086795003,
+    "lift": 2.2977023350204275
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.004290716266267279,
+    "confidence": 0.22613333333333333,
+    "lift": 2.1636370772011357
+  },
+  {
+    "antecedents": [
+      "lat pulldown",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.0030156449229897385,
+    "confidence": 0.22610015174506828,
+    "lift": 2.1633195967413013
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.01215365621647878,
+    "confidence": 0.22600677455777193,
+    "lift": 4.364576401846767
+  },
+  {
+    "antecedents": [
+      "leg press",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.22544878563885956,
+    "lift": 4.353800683850073
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)",
+      "overhead press (barbell)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.003946649395859054,
+    "confidence": 0.22504327755337564,
+    "lift": 2.824273126907477
+  },
+  {
+    "antecedents": [
+      "back extension"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00390617094051691,
+    "confidence": 0.22481071636575425,
+    "lift": 1.9224078720864575
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "romanian deadlift (barbell)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.007701026128842923,
+    "confidence": 0.22435141509433962,
+    "lift": 4.5976686306081405
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "dip (weighted)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.003086482219838491,
+    "confidence": 0.22409992652461427,
+    "lift": 1.68737477440638
+  },
+  {
+    "antecedents": [
+      "lat pulldown (neutral grip)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003966888623530126,
+    "confidence": 0.2238720731010851,
+    "lift": 2.924721115772478
+  },
+  {
+    "antecedents": [
+      "seated overhead press (dumbbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.003116841061345099,
+    "confidence": 0.22367465504720407,
+    "lift": 1.454532907505568
+  },
+  {
+    "antecedents": [
+      "hip adductor (machine)"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.006931935477342184,
+    "confidence": 0.2236369572314724,
+    "lift": 2.854476471157277
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.007002772774190937,
+    "confidence": 0.22329783801226202,
+    "lift": 4.312262215496523
+  },
+  {
+    "antecedents": [
+      "tricep rope push down (cable)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.008166528365277582,
+    "confidence": 0.2229897761812656,
+    "lift": 2.1335596148993323
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg extension"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.004938371551741585,
+    "confidence": 0.22283105022831046,
+    "lift": 4.303247747012152
+  },
+  {
+    "antecedents": [
+      "hack squat",
+      "leg extension"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0049282519379060495,
+    "confidence": 0.22237442922374429,
+    "lift": 2.307286470708942
+  },
+  {
+    "antecedents": [
+      "calf raise (leg press)"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.004958610779412657,
+    "confidence": 0.2222222222222222,
+    "lift": 3.432253134660136
+  },
+  {
+    "antecedents": [
+      "chest fly (cable)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.008045092999251149,
+    "confidence": 0.22188110521909019,
+    "lift": 1.670668017032921
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.22148148148148147,
+    "lift": 4.258874690997672
+  },
+  {
+    "antecedents": [
+      "dip (bodyweight)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.006780141269809144,
+    "confidence": 0.22134126197555334,
+    "lift": 1.666603232695842
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.2200147167034584,
+    "lift": 4.5087959923688
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.01054463761662855,
+    "confidence": 0.21983122362869198,
+    "lift": 4.2453159774360145
+  },
+  {
+    "antecedents": [
+      "abs crunch (weighted)"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0037746159606549413,
+    "confidence": 0.2197996464348851,
+    "lift": 1.4517854061494868
+  },
+  {
+    "antecedents": [
+      "bench press (dumbbell)",
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.0030257645368252746,
+    "confidence": 0.21920821114369501,
+    "lift": 4.215161900914119
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.004321075107773888,
+    "confidence": 0.21908671113391484,
+    "lift": 3.3838247297329156
+  },
+  {
+    "antecedents": [
+      "bench press (close grip)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.005919974093788581,
+    "confidence": 0.21828358208955223,
+    "lift": 1.6435802358218052
+  },
+  {
+    "antecedents": [
+      "leg press (45 degrees)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.006800380497480216,
+    "confidence": 0.2168441432720232,
+    "lift": 4.4438209352664435
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)",
+      "incline bench press (dumbbell)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.00806533222692222,
+    "confidence": 0.2167527875985858,
+    "lift": 2.7202282150008954
+  },
+  {
+    "antecedents": [
+      "hack squat"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.00799449493007347,
+    "confidence": 0.21673525377229086,
+    "lift": 2.24877617673984
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "tricep pushdown (cable)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.2164082687338501,
+    "lift": 3.167214499369313
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.006699184359124856,
+    "confidence": 0.21598694942903754,
+    "lift": 4.171076484009895
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.005940213321459653,
+    "confidence": 0.21596762325239147,
+    "lift": 2.240811486198532
+  },
+  {
+    "antecedents": [
+      "good morning"
+    ],
+    "consequents": [
+      "leg extension"
+    ],
+    "support": 0.0038150944159970855,
+    "confidence": 0.215922107674685,
+    "lift": 1.4261741084283819
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "leg extension"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.010352364953753366,
+    "confidence": 0.2158227848101266,
+    "lift": 2.239308688509774
+  },
+  {
+    "antecedents": [
+      "wrist curls"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.006284280191867878,
+    "confidence": 0.21540062434963578,
+    "lift": 3.1538685578578027
+  },
+  {
+    "antecedents": [
+      "shrug (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.004229998583254063,
+    "confidence": 0.21535291087068517,
+    "lift": 1.6215135588554836
+  },
+  {
+    "antecedents": [
+      "preacher curl (barbell)"
+    ],
+    "consequents": [
+      "hammer curl"
+    ],
+    "support": 0.004958610779412657,
+    "confidence": 0.21528998242530753,
+    "lift": 3.15224855286769
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "lying leg curl"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.006051529073650549,
+    "confidence": 0.21526277897768178,
+    "lift": 4.157091517103099
+  },
+  {
+    "antecedents": [
+      "skull crusher (barbell)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.005211601125301058,
+    "confidence": 0.21431543903454014,
+    "lift": 2.689639707202843
+  },
+  {
+    "antecedents": [
+      "romanian deadlift (barbell)",
+      "standing calf raise"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.004938371551741585,
+    "confidence": 0.21422300263388935,
+    "lift": 4.390105490310178
+  },
+  {
+    "antecedents": [
+      "bent over row (barbell)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.008844542492258495,
+    "confidence": 0.2142156862745098,
+    "lift": 1.3930222220501782
+  },
+  {
+    "antecedents": [
+      "hip abductor (machine)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0060414094598150135,
+    "confidence": 0.2141319942611191,
+    "lift": 2.2217655826223504
+  },
+  {
+    "antecedents": [
+      "seated calf raise"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.01108097714991196,
+    "confidence": 0.21399257377369554,
+    "lift": 3.3051450695794067
+  },
+  {
+    "antecedents": [
+      "front squat (barbell)"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.004138922058734239,
+    "confidence": 0.21391213389121339,
+    "lift": 2.2194843812328773
+  },
+  {
+    "antecedents": [
+      "leg raise (captain's chair)"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0035115060009310046,
+    "confidence": 0.21353846153846157,
+    "lift": 1.4319655057212064
+  },
+  {
+    "antecedents": [
+      "bicep curl (cable)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.009512437005403874,
+    "confidence": 0.21095152603231598,
+    "lift": 2.7559238365231886
+  },
+  {
+    "antecedents": [
+      "chest press (machine)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.00850047562185027,
+    "confidence": 0.21063189568706117,
+    "lift": 1.8011615323644867
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "bicep curl (dumbbell)"
+    ],
+    "support": 0.0037341375053127975,
+    "confidence": 0.21025641025641026,
+    "lift": 3.8046361378351854
+  },
+  {
+    "antecedents": [
+      "stiff leg deadlift"
+    ],
+    "consequents": [
+      "leg curl"
+    ],
+    "support": 0.004452630087635856,
+    "confidence": 0.210224558050645,
+    "lift": 2.6832821464025622
+  },
+  {
+    "antecedents": [
+      "bench press (barbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0323220465907021,
+    "confidence": 0.21018689128718085,
+    "lift": 1.5826156829637792
+  },
+  {
+    "antecedents": [
+      "lat pulldown",
+      "seated row (cable)"
+    ],
+    "consequents": [
+      "face pull"
+    ],
+    "support": 0.007286121961585946,
+    "confidence": 0.2100962941348118,
+    "lift": 3.4287853994737953
+  },
+  {
+    "antecedents": [
+      "bulgarian split squat (dumbbell)",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.003207917585864923,
+    "confidence": 0.20993377483443706,
+    "lift": 4.0541793554014856
+  },
+  {
+    "antecedents": [
+      "cable crunch"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.007053370843368617,
+    "confidence": 0.20968712394705175,
+    "lift": 1.4061388581840228
+  },
+  {
+    "antecedents": [
+      "hammer curl",
+      "lat pulldown"
+    ],
+    "consequents": [
+      "deadlift (barbell)"
+    ],
+    "support": 0.0037240178914772614,
+    "confidence": 0.20968660968660968,
+    "lift": 2.2088062462436198
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.006466433240907527,
+    "confidence": 0.20848287112561176,
+    "lift": 4.272472077745895
+  },
+  {
+    "antecedents": [
+      "bicep curl (dumbbell)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.011506000931004472,
+    "confidence": 0.20820362570957698,
+    "lift": 1.5676825575563074
+  },
+  {
+    "antecedents": [
+      "leg curl",
+      "seated calf raise"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.0031471999028517073,
+    "confidence": 0.20816599732262384,
+    "lift": 2.1598642926739857
+  },
+  {
+    "antecedents": [
+      "front raise"
+    ],
+    "consequents": [
+      "seated shoulder press (dumbbell)"
+    ],
+    "support": 0.0037037786638061893,
+    "confidence": 0.2077185017026107,
+    "lift": 3.9942259002235034
+  },
+  {
+    "antecedents": [
+      "rear delt fly (cable)"
+    ],
+    "consequents": [
+      "lat pulldown"
+    ],
+    "support": 0.0031573195166872433,
+    "confidence": 0.20717131474103587,
+    "lift": 1.771569312917937
+  },
+  {
+    "antecedents": [
+      "abs crunch (machine)"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.0049990892347548015,
+    "confidence": 0.20678107994976974,
+    "lift": 2.096623513079863
+  },
+  {
+    "antecedents": [
+      "chest fly (machine)"
+    ],
+    "consequents": [
+      "chest press (machine)"
+    ],
+    "support": 0.007761743811856139,
+    "confidence": 0.20623823608496908,
+    "lift": 5.110343533963008
+  },
+  {
+    "antecedents": [
+      "good morning"
+    ],
+    "consequents": [
+      "standing calf raise"
+    ],
+    "support": 0.003643060980792973,
+    "confidence": 0.2061855670103093,
+    "lift": 2.0905854053791035
+  },
+  {
+    "antecedents": [
+      "lateral raise (dumbbell)"
+    ],
+    "consequents": [
+      "incline bench press (dumbbell)"
+    ],
+    "support": 0.027322957355947298,
+    "confidence": 0.20572996037793356,
+    "lift": 1.9684182053279085
+  },
+  {
+    "antecedents": [
+      "incline bench press (smith machine)"
+    ],
+    "consequents": [
+      "lateral raise (cable)"
+    ],
+    "support": 0.004563945839826752,
+    "confidence": 0.20556061987237922,
+    "lift": 3.008455173955683
+  },
+  {
+    "antecedents": [
+      "rear delt fly (cable)"
+    ],
+    "consequents": [
+      "seated row (cable)"
+    ],
+    "support": 0.003126960675180635,
+    "confidence": 0.20517928286852588,
+    "lift": 2.680513798850078
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.011020259466898743,
+    "confidence": 0.20493037260067745,
+    "lift": 4.199670169982112
+  },
+  {
+    "antecedents": [
+      "leg extension"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.03101661640591795,
+    "confidence": 0.20486598489405786,
+    "lift": 3.164183634770398
+  },
+  {
+    "antecedents": [
+      "pec deck (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.0070837296848752255,
+    "confidence": 0.20473822755191576,
+    "lift": 1.541589619797715
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "chest fly (cable)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.20464263897373242,
+    "lift": 5.643978871924725
+  },
+  {
+    "antecedents": [
+      "incline bench press (dumbbell)",
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.003390070634904572,
+    "confidence": 0.20464263897373242,
+    "lift": 2.568246926353351
+  },
+  {
+    "antecedents": [
+      "rear delt fly (machine)"
+    ],
+    "consequents": [
+      "lateral raise (dumbbell)"
+    ],
+    "support": 0.00513064421461677,
+    "confidence": 0.20386007237635703,
+    "lift": 1.5349774940633076
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "seated hamstring curl"
+    ],
+    "consequents": [
+      "seated calf raise"
+    ],
+    "support": 0.003400190248740108,
+    "confidence": 0.20326678765880216,
+    "lift": 3.925428458641296
+  },
+  {
+    "antecedents": [
+      "walking lunge (dumbbell)"
+    ],
+    "consequents": [
+      "leg press"
+    ],
+    "support": 0.003066242992167419,
+    "confidence": 0.20226969292389851,
+    "lift": 3.1240835441315724
+  },
+  {
+    "antecedents": [
+      "shoulder press (machine)"
+    ],
+    "consequents": [
+      "bench press (barbell)"
+    ],
+    "support": 0.006425954785565383,
+    "confidence": 0.20177947251350492,
+    "lift": 1.3121508235614325
+  },
+  {
+    "antecedents": [
+      "hack squat"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.007427796555283451,
+    "confidence": 0.20137174211248288,
+    "lift": 4.126742598936403
+  },
+  {
+    "antecedents": [
+      "leg extension",
+      "leg press"
+    ],
+    "consequents": [
+      "romanian deadlift (barbell)"
+    ],
+    "support": 0.006233682122690198,
+    "confidence": 0.20097879282218598,
+    "lift": 2.085292140812975
+  },
+  {
+    "antecedents": [
+      "seated calf raise",
+      "squat (barbell)"
+    ],
+    "consequents": [
+      "lying leg curl"
+    ],
+    "support": 0.00395676900969459,
+    "confidence": 0.20061570035915854,
+    "lift": 4.111248917065809
+  },
+  {
+    "antecedents": [
+      "lateral raise (cable)"
+    ],
+    "consequents": [
+      "tricep pushdown (cable)"
+    ],
+    "support": 0.013691837519480256,
+    "confidence": 0.20038507109004738,
+    "lift": 2.5148148279116462
+  },
+  {
+    "antecedents": [
+      "back extension"
+    ],
+    "consequents": [
+      "squat (barbell)"
+    ],
+    "support": 0.0034811471594243964,
+    "confidence": 0.20034944670937682,
+    "lift": 1.343521418629696
+  }
+]
