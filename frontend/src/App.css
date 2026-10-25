@@ -1,13 +1,13 @@
 
 * {
   box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
   margin: 0;
-  background: #0b1120;
+  background: #0e0e0e;
   color: #f8fafc;
-  font-family: Inter, Arial, sans-serif;
 }
 
 button, input {
@@ -16,8 +16,8 @@ button, input {
 
 .header {
   padding: 22px 8%;
-  border-bottom: 1px solid #263247;
-  background: #101827;
+  border-bottom: 1px solid #6cfb1e;
+  background: #010101;
 }
 
 .brand {
@@ -27,7 +27,7 @@ button, input {
 }
 
 .brand span {
-  color: #38bdf8;
+  color: #6cfb1e;
 }
 
 .header p {
@@ -53,8 +53,10 @@ button, input {
 }
 
 .hero h1 {
+  font: inherit;
+  font-weight: bold;
   font-size: clamp(32px, 5vw, 48px);
-  letter-spacing: -1.5px;
+  letter-spacing: 1px;
   margin: 15px 0;
 }
 
@@ -64,8 +66,7 @@ button, input {
 }
 
 .panel {
-  background: #151f30;
-  border: 1px solid #2b394d;
+  background: #1b1b1b;
   border-radius: 16px;
   padding: 28px;
   margin-bottom: 24px;
@@ -74,6 +75,7 @@ button, input {
 .panel h2 {
   margin: 0;
   font-size: 21px;
+  color: #6cfb1e;
 }
 
 .search-area {
@@ -84,15 +86,15 @@ button, input {
 .search-area input {
   width: 100%;
   padding: 15px 17px;
-  background: #0b1120;
-  border: 1px solid #3a4a61;
+  background: #252525;
+  border: 1px solid #646464;
   border-radius: 10px;
   color: white;
   outline: none;
 }
 
 .search-area input:focus {
-  border-color: #38bdf8;
+  border-color: #838484;
 }
 
 .search-results {
@@ -132,17 +134,17 @@ button, input {
 }
 
 .chip {
-  background: #12334b;
-  border: 1px solid #25668b;
-  color: #7dd3fc;
+  background: #6cfb1e;
+  border: 1px solid #040404;
+  color: #030303;
   border-radius: 30px;
   padding: 9px 14px;
   cursor: pointer;
 }
 
 .primary-button {
-  background: #0284c7;
-  color: white;
+  background: #6cfb1e;
+  color: rgb(2, 2, 2);
   border: none;
   border-radius: 10px;
   padding: 14px 22px;
@@ -151,7 +153,7 @@ button, input {
 }
 
 .primary-button:hover:not(:disabled) {
-  background: #0369a1;
+  background: #4fcd0c;
 }
 
 .primary-button:disabled {
@@ -169,35 +171,61 @@ button, input {
   align-items: center;
   gap: 12px;
   padding: 18px 0;
-  border-bottom: 1px solid #334155;
+  border-bottom: 1px solid #464646;
 }
 
 .recommendation-info {
   display: flex;
   align-items: center;
   gap: 16px;
+  min-width: 0;
+}
+
+.exercise-image {
+  display: block;
+  flex: 0 0 88px;
+  width: 88px;
+  height: 68px;
+  object-fit: cover;
+  border-radius: 9px;
+  background: #252525;
+  border: 1px solid #3f3f3f;
+}
+
+.exercise-image-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a3a3a3;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  background: linear-gradient(135deg, #252525, #353535);
+}
+
+.exercise-title {
+  min-width: 0;
 }
 
 .rank {
-  color: #38bdf8;
+  color: #6cfb1e;
   font-weight: 800;
 }
 
 .recommendation h3 {
   margin: 0 0 5px;
-  font-size: 16px;
   text-transform: capitalize;
+  font: inherit;
 }
 
 .recommendation p {
   margin: 0;
-  color: #94a3b8;
+  color: #daeecf;
   font-size: 12px;
 }
 
 .confidence {
   text-align: right;
-  color: #7dd3fc;
+  color: #6cfb1e;
   font-weight: 800;
   font-size: 19px;
   white-space: nowrap;
@@ -205,7 +233,7 @@ button, input {
 
 .confidence small {
   display: block;
-  color: #94a3b8;
+  color: #eafde0;
   font-size: 11px;
   font-weight: 400;
 }
@@ -215,7 +243,7 @@ button, input {
 }
 
 footer {
-  color: #64748b;
+  color: #6cfb1e;
   font-size: 12px;
   text-align: center;
   line-height: 1.6;
@@ -233,5 +261,19 @@ footer {
 
   .recommendation {
     align-items: flex-start;
+  }
+
+  .recommendation-info {
+    gap: 10px;
+  }
+
+  .exercise-image {
+    flex-basis: 68px;
+    width: 68px;
+    height: 60px;
+  }
+
+  .confidence {
+    font-size: 16px;
   }
 }

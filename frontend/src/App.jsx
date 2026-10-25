@@ -4,6 +4,99 @@ import "./App.css";
 
 const API_URL = "http://127.0.0.1:5000";
 
+// Use exercise-specific reference photos from the public Free Exercise DB.
+// The database is downloaded once and each recommendation is matched by name;
+// this avoids showing unrelated/random photos for different exercises.
+const EXERCISE_DB_URL =
+  "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/dist/exercises.json";
+const EXERCISE_IMAGE_BASE =
+  "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/";
+let exerciseDatabasePromise;
+
+function normalizeExerciseName(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/^\([^)]*\)\s*/, "") // Remove dataset labels such as "(legs)".
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .replace(/\s+/g, " ");
+}
+
+function getExerciseDatabase() {
+  if (!exerciseDatabasePromise) {
+    exerciseDatabasePromise = fetch(EXERCISE_DB_URL)
+      .then((response) => {
+        if (!response.ok) throw new Error("Exercise image database unavailable");
+        return response.json();
+      })
+      .catch(() => []);
+  }
+  return exerciseDatabasePromise;
+}
+
+function findExerciseImage(exercise, database) {
+  if (!Array.isArray(database) || database.length === 0) return "";
+
+  const wanted = normalizeExerciseName(exercise);
+  const entries = database.filter((entry) => Array.isArray(entry.images) && entry.images.length);
+  const exact = entries.find((entry) => normalizeExerciseName(entry.name) === wanted);
+  if (exact) return EXERCISE_IMAGE_BASE + exact.images[0];
+
+  // Use the closest exercise-name match when datasets use slightly different names.
+  const wantedTokens = wanted.split(" ").filter((token) => token.length > 1);
+  let bestEntry = null;
+  let bestScore = 0;
+  for (const entry of entries) {
+    const candidate = normalizeExerciseName(entry.name);
+    const candidateTokens = candidate.split(" ").filter((token) => token.length > 1);
+    const shared = wantedTokens.filter((token) => candidateTokens.includes(token)).length;
+    const score = shared / Math.max(wantedTokens.length, candidateTokens.length, 1);
+    const relatedPhrase = candidate.includes(wanted) || wanted.includes(candidate);
+    const finalScore = relatedPhrase ? Math.max(score, 0.75) : score;
+    if (finalScore > bestScore) {
+      bestScore = finalScore;
+      bestEntry = entry;
+    }
+  }
+
+  // Avoid displaying a clearly unrelated exercise image.
+  if (!bestEntry || bestScore < 0.45) return "";
+  return EXERCISE_IMAGE_BASE + bestEntry.images[0];
+}
+
+function ExerciseImage({ exercise }) {
+  const [imageUrl, setImageUrl] = useState("");
+
+  useEffect(() => {
+    let cancelled = false;
+    getExerciseDatabase().then((database) => {
+      if (!cancelled) setImageUrl(findExerciseImage(exercise, database));
+    });
+    return () => { cancelled = true; };
+  }, [exercise]);
+
+  if (!imageUrl) {
+    return (
+      <div className="exercise-image exercise-image-placeholder" role="img" aria-label={`${exercise} image unavailable`}>
+        <span>Workout</span>
+      </div>
+    );
+  }
+
+  return (
+    <img
+      className="exercise-image"
+      src={imageUrl}
+      alt={`${exercise} workout demonstration`}
+      loading="lazy"
+      onError={(event) => {
+        event.currentTarget.style.display = "none";
+      }}
+    />
+  );
+}
+
 function App() {
   const [exercises, setExercises] = useState([]);
   const [search, setSearch] = useState("");
@@ -88,24 +181,15 @@ function App() {
     <div className="app">
       <header className="header">
         <div className="brand">Fit<span>Routine</span></div>
-        <p>Apriori-Based Exercise Recommendation System</p>
       </header>
 
       <main className="container">
         <section className="hero">
-          <span className="eyebrow">YOUR WORKOUT COMPANION</span>
           <h1>Find exercises that work together.</h1>
-          <p>
-            Select exercises and discover related movements based on
-            association patterns found in real workout programs.
-          </p>
         </section>
 
         <section className="panel">
-          <h2>1. Choose your exercises</h2>
-          <p className="muted">
-            Search and select one or more exercises to get started.
-          </p>
+          <h2>Choose exercise</h2>
 
           <div className="search-area">
             <input
@@ -153,15 +237,12 @@ function App() {
             onClick={getRecommendations}
             disabled={loading || selected.length === 0}
           >
-            {loading ? "Finding exercises..." : "Get Recommendations →"}
+            {loading ? "Finding exercises..." : "Get Recommendations"}
           </button>
         </section>
 
         <section className="panel">
-          <h2>2. Your recommendations</h2>
-          <p className="muted">
-            Recommendations are ranked using association-rule confidence.
-          </p>
+          <h2>Exercise Recommendations</h2>
 
           {error && <p className="error">{error}</p>}
 
@@ -171,7 +252,8 @@ function App() {
                 <div className="recommendation" key={item.exercise}>
                   <div className="recommendation-info">
                     <span className="rank">#{index + 1}</span>
-                    <div>
+                    <ExerciseImage exercise={item.exercise} />
+                    <div className="exercise-title">
                       <h3>{item.exercise}</h3>
                       <p>
                         Lift: {item.lift.toFixed(2)} · Support:{" "}
