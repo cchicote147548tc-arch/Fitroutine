@@ -10,16 +10,49 @@ body {
   color: #f8fafc;
 }
 
-button, input {
+button,
+input {
   font: inherit;
 }
 
-.header {
-  padding: 22px 8%;
-  border-bottom: 1px solid #6cfb1e;
-  background: #010101;
+/* Fix gym video background visibility */
+
+.app {
+  position: relative;
+  min-height: 100vh;
+  isolation: isolate;
 }
 
+.video-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background: #0e0e0e;
+}
+
+.video-background video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.video-background::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+/* Keep website content above the video */
+.header,
+.container {
+  position: relative;
+  z-index: 1;
+}
 .brand {
   font-size: 27px;
   font-weight: 800;
@@ -36,7 +69,9 @@ button, input {
   font-size: 13px;
 }
 
+/* Main content */
 .container {
+  position: relative;
   width: min(850px, 92%);
   margin: 0 auto;
 }
@@ -58,18 +93,24 @@ button, input {
   font-size: clamp(32px, 5vw, 48px);
   letter-spacing: 1px;
   margin: 15px 0;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85);
 }
 
-.hero p, .muted {
-  color: #94a3b8;
+.hero p,
+.muted {
+  color: #b6c4d5;
   line-height: 1.7;
 }
 
+/* Slightly transparent panels show the video behind them */
 .panel {
-  background: #1b1b1b;
+  background: rgba(27, 27, 27, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 16px;
   padding: 28px;
   margin-bottom: 24px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .panel h2 {
@@ -78,6 +119,7 @@ button, input {
   color: #6cfb1e;
 }
 
+/* Exercise search */
 .search-area {
   position: relative;
   margin-top: 22px;
@@ -86,7 +128,7 @@ button, input {
 .search-area input {
   width: 100%;
   padding: 15px 17px;
-  background: #252525;
+  background: rgba(37, 37, 37, 0.96);
   border: 1px solid #646464;
   border-radius: 10px;
   color: white;
@@ -94,7 +136,7 @@ button, input {
 }
 
 .search-area input:focus {
-  border-color: #838484;
+  border-color: #6cfb1e;
 }
 
 .search-results {
@@ -125,6 +167,7 @@ button, input {
   background: #334155;
 }
 
+/* Selected exercises */
 .selected {
   display: flex;
   flex-wrap: wrap;
@@ -142,6 +185,7 @@ button, input {
   cursor: pointer;
 }
 
+/* Main recommendation button */
 .primary-button {
   background: #6cfb1e;
   color: rgb(2, 2, 2);
@@ -161,6 +205,7 @@ button, input {
   cursor: not-allowed;
 }
 
+/* Recommendations */
 .recommendation-list {
   margin-top: 24px;
 }
@@ -242,14 +287,42 @@ button, input {
   color: #fca5a5;
 }
 
+/* Exercise variations */
+.variation-selector {
+  margin: 18px 0;
+  padding: 18px;
+  border: 1px solid #67ff00;
+  border-radius: 12px;
+  background: rgba(27, 27, 27, 0.94);
+}
+
+.variation-selector h3 {
+  margin: 0 0 10px;
+  color: #67ff00;
+}
+
+.variation-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 14px 0;
+}
+
+.variation-options .chip {
+  cursor: pointer;
+}
+
+/* Footer */
 footer {
   color: #6cfb1e;
   font-size: 12px;
   text-align: center;
   line-height: 1.6;
   padding: 12px 0 35px;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9);
 }
 
+/* Smaller screens */
 @media (max-width: 600px) {
   .hero {
     padding-top: 40px;
@@ -275,5 +348,315 @@ footer {
 
   .confidence {
     font-size: 16px;
+  }
+}
+
+/* Accessibility: reduce motion when requested */
+@media (prefers-reduced-motion: reduce) {
+  .video-background video {
+    display: none;
+  }
+}
+
+/* Final gym video background fix */
+
+.app {
+  position: relative;
+  min-height: 100vh;
+  isolation: isolate;
+}
+
+.video-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.video-background video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.video-background::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.header,
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+/* About FitRoutine */
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 4%;
+}
+
+.about-button {
+  padding: 10px 22px;
+  border: 1px solid #6cfb1e;
+  border-radius: 9px;
+  background: rgba(20, 20, 20, 0.85);
+  color: #6cfb1e;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.about-button:hover {
+  background: #6cfb1e;
+  color: #080808;
+}
+
+.about-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(6px);
+}
+
+.about-modal {
+  width: min(560px, 100%);
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 28px;
+  border: 1px solid rgba(108, 251, 30, 0.35);
+  border-radius: 18px;
+  background: #191919;
+  color: #f8fafc;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+}
+
+.about-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.about-modal-header h2 {
+  margin: 0;
+  font-size: 25px;
+  color: white;
+}
+
+.about-modal-header h2 span {
+  color: #6cfb1e;
+}
+
+.about-close {
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 8px;
+  background: #303030;
+  color: white;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.about-close:hover {
+  background: #454545;
+}
+
+.about-intro {
+  margin: 20px 0;
+  color: #cbd5e1;
+  line-height: 1.7;
+}
+
+.about-modal h3 {
+  margin: 24px 0 16px;
+  color: #6cfb1e;
+}
+
+.about-step {
+  margin-bottom: 16px;
+  padding: 14px;
+  border: 1px solid #343434;
+  border-radius: 10px;
+  background: #242424;
+}
+
+.about-step strong {
+  color: #6cfb1e;
+}
+
+.about-step p {
+  margin: 8px 0 0;
+  color: #cbd5e1;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.about-disclaimer {
+  margin-top: 22px;
+  padding: 16px;
+  border-left: 3px solid #6cfb1e;
+  border-radius: 8px;
+  background: #252525;
+}
+
+.about-disclaimer p {
+  margin: 8px 0 0;
+  color: #cbd5e1;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+@media (max-width: 600px) {
+  .header {
+    padding: 16px 5%;
+  }
+
+  .about-modal {
+    padding: 20px;
+  }
+
+  .about-modal-header h2 {
+    font-size: 22px;
+  }
+}
+
+/* About button */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-button {
+  background: transparent;
+  border: 1px solid #6cfb1e;
+  color: #6cfb1e;
+  padding: 9px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.about-button:hover {
+  background: #6cfb1e;
+  color: #101510;
+}
+
+/* About popup */
+.about-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.78);
+}
+
+.about-modal {
+  width: 100%;
+  max-width: 560px;
+  max-height: 85vh;
+  overflow-y: auto;
+  background: #171d17;
+  color: #f5f5f5;
+  border: 1px solid #354435;
+  border-radius: 16px;
+  padding: 28px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.about-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.about-modal-header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.about-modal-header h2 span {
+  color: #6cfb1e;
+}
+
+.about-close {
+  background: transparent;
+  border: none;
+  color: #f5f5f5;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.about-close:hover {
+  color: #6cfb1e;
+}
+
+.about-intro {
+  line-height: 1.7;
+  color: #d4ddd4;
+}
+
+.about-modal h3 {
+  color: #6cfb1e;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.about-step {
+  margin-bottom: 16px;
+}
+
+.about-step strong {
+  color: #ffffff;
+}
+
+.about-step p {
+  color: #bdc9bd;
+  line-height: 1.6;
+  margin: 6px 0 0;
+}
+
+.about-disclaimer {
+  margin-top: 24px;
+  padding: 16px;
+  background: rgba(108, 251, 30, 0.07);
+  border-left: 3px solid #6cfb1e;
+  border-radius: 6px;
+}
+
+.about-disclaimer p {
+  margin-bottom: 0;
+  line-height: 1.6;
+  color: #d4ddd4;
+}
+
+@media (max-width: 600px) {
+  .about-modal {
+    padding: 20px;
+  }
+
+  .about-modal-header h2 {
+    font-size: 21px;
   }
 }

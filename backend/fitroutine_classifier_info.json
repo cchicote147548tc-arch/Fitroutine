@@ -1,0 +1,18 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "task": "Exercise muscle-region classification",
+    "classes": [
+        "Core",
+        "Lower Body",
+        "Neck",
+        "Upper Body"
+    ],
+    "training_exercises": 700,
+    "validation_exercises": 175,
+    "training_accuracy": 88.57,
+    "validation_accuracy": 90.86,
+    "accuracy_gap_points": 2.29,
+    "balanced_accuracy": 90.95,
+    "validation_source": "Held-out exercise dataset",
+    "note": "These metrics evaluate muscle-region classification, not Apriori recommendations."
+}

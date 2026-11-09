@@ -1,0 +1,6 @@
+,hit@1,hit@3,hit@5,hit@10,coverage@5,avg_recs@5,fit_time_s
+Apriori only (tuned),0.098,0.177,0.23,0.309,0.974,4.77,1.48
+FP-Growth only (same parameters),0.098,0.177,0.23,0.309,0.974,4.77,0.38
+Item co-occurrence (cosine),0.095,0.191,0.253,0.365,0.993,4.966,0.07
+Apriori + observed pairs (app method),0.101,0.18,0.234,0.34,0.993,4.966,1.26
+Popularity baseline,0.04,0.1,0.146,0.225,1.0,5.0,0.01
